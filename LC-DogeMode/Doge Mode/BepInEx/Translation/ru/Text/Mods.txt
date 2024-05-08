@@ -1,0 +1,55 @@
+Change: kirby=Надеть костюм Кирби: [E]
+Change: Kirby=Надеть костюм Кирби: [E]
+Change: knuckles=Надеть костюм Наклза: [E]
+Change: Knuckles=Надеть костюм Наклза: [E]
+Change: luigi=Надеть костюм Луиджи: [E]
+Change: Luigi=Надеть костюм Луиджи: [E]
+Change: mario=Надеть костюм Марио: [E]
+Change: Mario=Надеть костюм Марио: [E]
+Change: minion=Надеть костюм миньона: [E]
+Change: Minion=Надеть костюм миньона: [E]
+Change: skeleton=Надеть костюм скелета: [E]
+Change: Skeleton=Надеть костюм скелета: [E]
+Change: slayer=Надеть костюм убийцы: [E]
+Change: Slayer=Надеть костюм убийцы: [E]
+Change: smile=Надеть костюм смайлика: [E]
+Change: Smile=Надеть костюм смайлика: [E]
+Change: Glow=Надеть светящийся костюм: [E]
+
+Cosmetics Enabled:=ВКЛ аксессуары:
+Crew Size:=мест:
+Voice Volume=Громкость
+
+WAITING FOR KEY=ОЖИДАНИЕ ВВОДА
+Remap=Переназначение
+Emote Wheel=Колесо эмоций
+Quick Emotes=Быстрые эмоции
+Middle Finger=Показывать\nсредний палец
+Clap=Аплодировать
+The Griddy=Танцевать\n"Гридди"
+Shy=Выражать\nстеснение
+Twerk=Тверкать
+Salute=Отдавать\nчесть
+Settings=Настройки
+Inventory Check=Проверка инвентаря
+Prevents some emotes from performing while holding items/scrap=Предотвращает показ\nнекоторых эмоций при\nдержании предметов/лома.
+r:"^Page ([0-9])/([0-9])$"=Стр. $1/$2
+Dance\n[1]=Танцевать\n[1]
+Point\n[2]=Указывать\n[2]
+Middle Finger\n[3]=Показывать\nсредний палец\n[3]
+Clap\n[4]=Аплодировать\n[4]
+Shy\n[5]=Выражать\nстеснение\n[5]
+The Griddy\n[6]=Танцевать\n"Гридди"\n[6]
+Twerk\n[7]=Тверкать\n[7]
+Salute\n[8]=Отдавать\nчесть\n[8]
+
+Заставить корабль улететь на автопилоте раньше времени: [ПКМ] (зажать)\n\n\n\n\nSwitch to Enemies: [E]\nToggle Flashlight : [RMB] (Click)=Заставить корабль улететь на автопилоте раньше времени: [ПКМ] (зажать)\n\n\n\n\nПереключиться на врагов: [E]\nВкл/выкл фонарик: [ПКМ]
+Заставить корабль улететь на автопилоте раньше времени: [ПКМ] (зажать)\n\n\n\n\nSwitch to Players: [E]\nToggle Flashlight : [RMB] (Click)=Заставить корабль улететь на автопилоте раньше времени: [ПКМ] (зажать)\n\n\n\n\nПереключиться на игроков: [E]\nВкл/выкл фонарик: [ПКМ]
+Отдан голос за то, чтобы корабль улетел раньше времени\n\n\n\n\nSwitch to Enemies: [E]\nToggle Flashlight : [RMB] (Click)=Отдан голос за то, чтобы корабль улетел раньше времени\n\n\n\n\nПереключиться на врагов: [E]\nВкл/выкл фонарик: [ПКМ]
+Отдан голос за то, чтобы корабль улетел раньше времени\n\n\n\n\nSwitch to Players: [E]\nToggle Flashlight : [RMB] (Click)=Отдан голос за то, чтобы корабль улетел раньше времени\n\n\n\n\nПереключиться на игроков: [E]\nВкл/выкл фонарик: [ПКМ]
+Корабль улетит в течение часа\n\n\n\n\nSwitch to Enemies: [E]\nToggle Flashlight : [RMB] (Click)=Корабль улетит в течение часа\n\n\n\n\nПереключиться на врагов: [E]\nВкл/выкл фонарик: [ПКМ]
+Корабль улетит в течение часа\n\n\n\n\nSwitch to Players: [E]\nToggle Flashlight : [RMB] (Click)=Корабль улетит в течение часа\n\n\n\n\nПереключиться на игроков: [E]\nВкл/выкл фонарик: [ПКМ]
+
+Toggle light : [LMB][F]=ВКЛ/ВЫКЛ: [ЛКМ][F]
+Send voice : [LMB][X]=Говорить по рации: [ЛКМ][X]
+Hold: [Alt]=Зажать: [Alt]

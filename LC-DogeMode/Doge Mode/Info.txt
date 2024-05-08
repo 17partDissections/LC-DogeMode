@@ -1,0 +1,4 @@
+Made By AlekJr; Nor
+		Actors: Nor; Fougy
+Plugins assembly version: 1.4
+Doge Language version: 1.2
