@@ -1,0 +1,32 @@
+﻿# Creatures/Существа
+
+Masked=Подражатель
+Nutcracker=Щелкунчик
+Baboon hawk=Светлана ОРКадьевна
+Bracken=Адилет
+Flowerman=Адилет
+Bunker spider=Бункерный Баиден-паук
+Circuit bees=Пчелки Винни-пуха
+Coil-head=SCP-173
+Earth Leviathan=Член Демократии
+Eyeless dog=Слепая собака
+Forest Giant=Баскетболист
+Forest keeper=Баскетболист
+Ghost girl=Аня Тушева
+Hoarding bug=All my fellas
+Hygrodere=Латексное фурри
+Jester=Мудила
+Landmine=Коровья мина
+Manticoil=Какая-то хуня
+Roaming locusts=Какая-то мелкая хуня
+Snare flea=Леха Fougy
+Spore lizard=Елена Андреевна
+Thumper=Тампер
+Half=Половинчатый
+Turret=NON-CUTE Турель
+Spring=SCP-173
+Centipede=Многоножка
+Lasso=Лассо
+Tulip Snake=Тюльпановая змея
+Butler=Дворецкий
+Old Bird=Старинная птица
