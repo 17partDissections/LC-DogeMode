@@ -1,0 +1,48 @@
+Mods list:
+Better Spectate
+	Web Page: https://thunderstore.io/c/lethal-company/p/Fusition/BetterSpectate/
+	File Name: BetterSpectate.dll
+More Stamina
+	Web Page: https://thunderstore.io/c/lethal-company/p/saretrar_legit/MoreStamina/
+	File Name: BetterStamina.dll
+Better Flashlight
+	Web Page: https://thunderstore.io/c/lethal-company/p/Lega/BetterFlashlight/
+	File Name: BetterFlashlight.dll\
+NilsHUD
+	Web Page: https://thunderstore.io/c/lethal-company/p/Nilaier/NilsHUD/
+	File Name: NilsHUD.dll
+Custom Sounds
+	Web Page: https://thunderstore.io/c/lethal-company/p/Clementinise/CustomSounds/
+	File Name: CustomSounds.dll
+//LethalLib
+	//Web Page: https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/
+	//Files Names: LethalLib.dll, lethallib
+NameplateTweaks
+	Web Page: https://thunderstore.io/c/lethal-company/p/taffyko/NameplateTweaks/
+	File Name: NameplateTweaks.dll
+Better Emotes
+	Web Page: https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/
+	File Name: BetterEmotes.dll
+	Directory Name: BetterEmotes
+	Additional Information: File "BetterEmotes.dll" should be in Lethal Company directory
+More suits
+	Web Page: https://thunderstore.io/c/lethal-company/p/x753/More_Suits/
+	File Name: MoreSuits.dll
+	Directory Name: moresuits
+LC API V50
+	Web Page: https://thunderstore.io/c/lethal-company/p/DrFeederino/LC_API_V50/
+	Files Names: LC_API_V50.dll, networking
+LootableLandmines
+	Web Page:https://thunderstore.io/c/lethal-company/p/Procyon/LootableLandmines/
+	File Name: LootableLandmines.dll
+
+
+
+
+
+
+
+
+
+
+

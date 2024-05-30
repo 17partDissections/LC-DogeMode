@@ -1,4 +1,4 @@
-Made By AlekJr; Nor
-		Actors: Nor; Fougy
-Plugins assembly version: 1.4
-Doge Language version: 1.2
+Made By 17.part.dissections, Nor
+		Actors: Nor, Skyscrapes, Fougy
+Plugins assembly version: 1.4.1
+Doge Language version: 1.3
