@@ -1,0 +1,357 @@
+# Предметы магазина/Store items
+
+r:"^Body of (.+)$"= Теплый труп-спермоприемник $1
+Drop Body : [G]=Выбросить Труп-спермоприемник : [G]
+sr:"^(.+?) collected!$"=$1 на корабле!
+
+Spray paint =Баллончик со спермой
+Drop Spray paint : [G]=Выбросить Баллончик: [G]
+Spray : [LMB]=Кончить: [ЛКМ]
+Shake can : [Q]=Вздрочнуть: [Q]
+
+Jetpack=ДжетПак
+Drop Jetpack : [G]=Выбросить ДжетПак: [G]
+Use jetpack : [LMB]=Сыграть в Jetpack Joyride: [ЛКМ]
+
+Shovel=Лопата
+Drop Shovel : [G]=Выбросить Лопату: [G]
+Swing shovel : [LMB]=Пиздануть: [ЛКМ]
+
+Boombox=Колонка Эндрю
+Drop Boombox : [G]=Выбросить Колонку Эндрю: [G]
+Toggle music : [LMB]=Переключить трек: [ЛКМ]
+
+Lockpicker=Отмычка
+Drop Lockpicker : [G]=Выбросить Отмычку: [G]
+Place on door : [LMB]=Поместить на дверь: [ЛКМ]
+
+Walkie-talkie=Рация Клем
+Drop Walkie-talkie : [G]=Выбросить Рацию Клем: [G]
+Power button : [Q]=Вкл/выкл: [Q]
+Send voice : [LMB]=Пиздеть: [ЛКМ]
+
+TZP-Inhalant=Ингалятор Димы
+Drop TZP-Inhalant : [G]=Выбросить Ингалятор Димы: [G]
+Take TZP : [LMB]=Закумариться: [ЛКМ]
+
+Pro-flashlight=Фонарик для про
+Drop Pro-flashlight : [G]=Выбросить Фонарик для про: [G]
+Toggle light : [LMB]=Вкл/выкл: [ЛКМ]
+
+Unnamed=Безымянный
+Radar-booster=Радар-усилитель
+Drop Radar-booster : [G]=Выбросить Радар-усилитель: [G]
+Turn on booster : [LMB]=Вкл/Выкл: [ЛКМ]
+(Radar booster)=(Радар усилитель)
+
+Stun grenade=Discord Light Theme
+Drop Stun grenade : [G]=Выбросить Discord Light Theme: [G]
+Use grenade : [LMB]=Использовать: [ЛКМ]
+Throw grenade: [LMB]=Бросить: [ЛКМ]
+
+Extension ladder=Выдвижная лестница
+Drop Extension ladder : [G]=Выбросить Лестницу: [G]
+Pop up ladder : [LMB]=Разместить: [ЛКМ]
+
+Zap gun=Электрошокер
+Drop Zap gun : [G]=Выбросить Электрошокер: [G]
+Scan for threat: [LMB]=Сканировать угрозу: [ЛКМ]
+
+Flashlight=Фонарик
+Drop Flashlight : [G]=Выбросить Фонарик: [G]
+
+# Прочее/Other
+
+Clipboard=Планшет
+Drop clipboard : [G]=Выбросить Планшет: [G]
+Turn page : [Q/E]=Перевернуть страницу: [Q/E]
+Inspect: [Z]=Изучить: [Z]
+
+Sticky note=Хуйня какая-то
+Drop Sticky note : [G]=Выбросить Хуйню какаую-то: [G]
+
+Big bolt=БигБолт Моти
+Drop Big bolt : [G]=Выбросить БигБолт Моти: [G]
+Big bolt collected!=БигБолт Моти на корабле!
+
+Key=Ключ от кабинета 302
+Use key : [LMB]=Использовать Ключ от кабинета 302: [ЛКМ]
+Drop Key : [G]=Выбросить Ключ от кабинета 302: [G]
+
+Jar of pickles=Огурцы Копатыча(полкан)
+Drop Jar of pickles : [G]=Выбросить Огурцы Копатыча(полкан): [G]
+Jar of pickles collected!=Огурцы Копатыча на корабле!
+
+Laser pointer=LaserPointer1488
+Laser pointer collected!=LaserPointer1488 на корабле!
+Drop Laser pointer : [G]=Выбросить LaserPointer1488: [G]
+Toggle laser : [LMB]=Использовать: [ЛКМ]
+
+Magnifying glass=TheLUPA
+Magnifying glass collected!=TheLUPA на кораблеа!
+Drop Magnifying glass : [G]=Выбросить TheLUP'у: [G]
+
+Candy=Сосун
+Candy collected!=Сосун на корабле!
+Drop Candy : [G]=Выбросить Сосун: [G]
+
+Brass bell=Латунный колокол
+Bell collected!=Латунный колокол на корабле!
+Drop Bell : [G]=Выбросить Колокол: [G]
+
+Fancy lamp=Лампа Алладина
+Fancy lamp collected!=Лампа Алладина на кораблеа!
+Drop Fancy lamp : [G]=Выбросить Лампу: [G]
+
+Large axle=Кулагин Саня
+Large axle collected!=Кулагин Саня на кораблеа!
+Drop Large axle : [G]=Выбросить Большую ось: [G]
+
+V-type engine=Огромная шняга ZV
+V-type engine collected!=Огромная шняга ZV на корабле!
+Drop V-type engine : [G]=Выбросить Огромную шнягу ZV: [G]
+
+Clown horn=Клоунский клаксон
+Clown horn collected!=Клоунский клаксон на корабле!
+Drop Clown horn : [G]=Выбросить Клоунский клаксон: [G]
+Use horn : [LMB]=Использовать: [ЛКМ]
+
+Toothpaste=Коричневая зубная паста
+Toothpaste collected!=Коричневая зубная паста на кораблеа!
+Drop Toothpaste : [G]=Выбросить Зубную пасту: [G]
+
+Red soda=Добрый Кола
+Red soda collected!=Добрый Кола на кораблеа!
+Drop Red soda : [G]=Выбросить Добрый Кола: [G]
+
+Robot Toy=Робот Долбаеб
+Toy robot=Робот Долбаеб
+Toy robot collected!=Робот Долбаеб на корабле!
+Drop Toy robot : [G]=Выбросить Долбаеба: [G]
+
+Plastic fish=Оружие для убийства младенцев
+Plastic fish collected!=Оружие для убийства младенцев на корабле!
+Drop Plastic fish : [G]=Выбросить Оружие: [G]
+
+Metal sheet=Лист металла
+Metal sheet collected!=Лист металла на корабле!
+Drop Metal sheet : [G]=Выбросить Лист металла: [G]
+
+Tattered metal sheet=Рваный лист для подтирания жопы
+Tattered metal sheet!=Рваный лист для подтирания жопы на корабле!
+Drop Tattered metal sheet : [G]=Выбросить Лист металла: [G]
+
+Tea Kettle=Кирилл
+Tea kettle collected!=Кирилл на корабле!
+Drop Tea kettle : [G]=Выбросить Кирилла: [G]
+
+Teeth=Челюсть
+Teeth collected!=Челюсть на корабле!
+Drop Teeth : [G]=Выбросить Челюсть: [G]
+
+Airhorn=Звуки стонов
+Airhorn collected!=Звуки стонов на корабле!
+Use airhorn : [LMB]=Стонать: [ЛКМ]
+Drop Airhorn : [G]=Выбросить Звуки стонов: [G]
+
+Stop sign=Знак "СТОП ПУТЛЕР"
+Stop sign collected!=Знак "СТОП ПУТЛЕР" на корабле!
+Swing sign : [LMB]=Пиздануть: [ЛКМ]
+Drop Stop sign : [G]=Выбросить Знак: [G]
+
+Apparatice=Реактор
+Apparatus=Реактор
+Apparatus collected!=Реактор на корабле!
+Drop Apparatus : [G]=Выбросить Реактор: [G]
+
+Bee hive=Ради этой вещи сдох твой друг, да?
+Bee hive collected!=Исчадие ада на корабле!
+Hive collected!=Исчадие ада на корабле!
+Drop Bee hive : [G]=НЕ ВЫБРАСЫВАЙ: [G]
+Drop Hive : [G]=НЕ ВЫБРАСЫВАЙ: [G]
+
+Mug=Кружка
+Mug collected!=Кружка на корабле!
+Drop Mug : [G]=Выбросить Кружку: [G]
+
+Bottles=Ящик водяры со вкусом малины
+Bottles collected!=Водяра на корабле!
+Drop Bottles : [G]=Выбросить Водяру: [G]
+
+Gold Bar=Золотой слиток(1/8 до яблока)
+Gold bar collected!=Золотой слиток на корабле!
+Drop Gold bar : [G]=Выбросить Золотой слиток: [G]
+
+Painting=Картина
+Painting collected!=Картина на кораблеа!
+Drop Painting : [G]=Выбросить Картину: [G]
+
+Data chip=Чип данных
+
+Rubber ducky=Резиновая шлюшка
+Rubber Ducky=Резиновая шлюшка
+Rubber ducky collected!=Резиновая шлюшка на кораблеа!
+Rubber Ducky collected!=Резиновая шлюшка на кораблеа!
+Drop Rubber ducky : [G]=Выбросить Шлюшку: [G]
+Drop Rubber Ducky : [G]=Выбросить Шлюшку: [G]
+
+Cash register=Кассовый аппарат
+Cash register collected!=Кассовый аппарат на корабле!
+Use cash register : [LMB]=Использовать Кассу: [ЛКМ]
+Drop Cash register : [G]=Выбросить Кассу: [G]
+
+Chemical jug=Баллон метиламина
+Chemical jug collected!=Баллон метиламина на корабле!
+Drop Chemical jug : [G]=Выбросить Баллон: [G]
+
+Wedding ring=Обручальное кольцо Путина
+Drop Ring : [G]=Выбросить Кольцо: [G]
+Ring collected!=Кольцо Путина на корабле!
+
+Toy cube=GayUrkaine.com
+Toy cube collected!=GayUrkaine.com на корабле!
+Drop Toy cube : [G]=Выбросить GayUrkaine.com: [G]
+
+Yield sign=Знак "УСТУПИ ДОРОГУ ФАШИСТУ"
+Yield sign collected!=Знак "УСТУПИ ДОРОГУ ФАШИСТУ" на корабле!
+Drop Yield sign : [G]=Выбросить Знак: [G]
+
+Steering wheel=Руль
+Steering wheel collected!=Руль на корабле!
+Drop Steering wheel : [G]=Выбросить Руль: [G]
+
+Remote=Пульт Ким Чен Ына
+Remote collected!=Пульт Ким Чен Ына на корабле!
+Use remote : [LMB]=Запустить ядерку: [ЛКМ]
+Drop Remote : [G]=Выбросить Пульт Кима: [G]
+
+Hair brush=Расческа Ирины Николаевны
+Hair brush collected!=Расческа Ирины Николаевны на корабле!
+Brush collected!=Расческа Ирины Николаевны на корабле!
+Drop Brush : [G]=Выбросить Расчёску: [G]
+
+Coffee mug=Кружка Федотова
+Coffee mug collected!=Кружка Федотова на корабле!
+Drop Coffee mug : [G]=Выбросить Кружку: [G]
+
+Cookie mold pan=Форма для выпечки
+Cookie mold pan collected!=Форма для выпечки на корабле!
+Drop Cookie mold pan : [G]=Выбросить Форму: [G]
+
+Dust pan=Совок
+Dust pan collected!=Совок на корабле!
+Drop Dust pan : [G]=Выбросить Совок: [G]
+
+Egg beater=Венчик
+Egg beater collected!=Венчик на корабле!
+Drop Egg beater : [G]=Выбросить Венчик : [G]
+
+Golden cup=Кубок "Золотого Окурка"
+Golden cup collected!=Кубок "Золотого Окурка" на корабле!
+Drop Golden cup : [G]=Выбросить Кубок: [G]
+
+Old phone=Старый Nokia3310MeltyBlood_ФУНКЦИЯ С ОТЦОМ_PLANETVPN_мочаАди)
+Old phone collected!=Старый Nokia3310MeltyBlood_ФУНКЦИЯ С ОТЦОМ_PLANETVPN_мочаАди) на корабле!
+Drop Old phone : [G]=Выбросить Телефон: [G]
+
+Perfume bottle=ДухИ Маргариты Витальевны
+Perfume bottle collected!=ДухИ Маргариты Витальевны на корабле!
+Drop Perfume bottle : [G]=Выбросить ДухИ: [G]
+
+Pill bottle=Антидепрессанты
+Pill bottle collected!=Антидепрессанты на корабле!
+Drop Pill bottle : [G]=Выбросить Антидепрессанты: [G]
+
+Gift box=Steam Gift
+Gift collected!=Steam Gift на корабле!
+Open gift : [LMB]=Открыть Steam Gift: [ЛКМ]
+Drop Gift : [G]=Выбросить Steam Gift: [G]
+
+Hairdryer=Опусти в ванну с сестрой
+Hairdryer collected!=Фен на корабле!
+Use hairdryer : [LMB]=Использовать: [ЛКМ]
+Drop Hairdryer : [G]=Выбросить Фен: [G]
+
+Comedy=Маска "КВН"
+Drop Comedy : [G]=Выбросить Маску: [G]
+Comedy collected!=Маска "КВН" на кораблеа!
+
+Wear mask : [LMB]=Примерить: [ЛКМ]
+
+Tragedy=Маска "Comedy Woman"
+Drop Tragedy : [G]=Выбросить Маску: [G]
+Tragedy collected!=Маска "Comedy Woman" на кораблеа!
+
+Shotgun=Дробовик Курт Кобейна
+Double-barrel=Нихуя себе DOOM
+Drop Shotgun : [G]=Выбросить Дробовик[G]
+Reload : [E]=Перезарядить: [E]
+Turn safety on: [Q]=Поставить предохранитель: [Q]
+Turn safety off: [Q]=Снять предохранитель: [Q]
+
+Binoculars=Бинокль
+Drop Binoculars : [G]=Выбросить Бинокль: [G]
+Use binoculars : [LMB]=Использовать: [ЛКМ]
+
+Mapper=Картограф
+Drop Mapper : [G]=Выбросить Картограф: [G]
+Update map : [LMB]=Обновить: [ЛКМ]
+Inspect map : [Z]=Изучить: [Z]
+
+Homemade Flashbang=Pornhub Light Theme
+Homemade flashbang collected!=Pornhub Light Theme на корабле!
+Use DIY-Flashbang : [LMB]=Выдернуть штырь: [ЛКМ]
+Drop Homemade flashbang : [G]=Выбросить Pornhub Light Theme: [G]
+
+Whoopie cushion=Подушка пердушка Гусейнов
+Whoopie cushion collected!=Подушка пердушка Гусейнов на кораблеа!
+Drop Whoopie cushion : [G]=Выбросить Подушку: [G]
+
+Shotgun shell=Патрон
+Ammo=Патрон
+Ammo collected!=Патрон на корабле!
+Drop Ammo : [G]=Выбросить Патрон: [G]
+
+Flask=Колба с красным льдом
+Flask collected!=Колба с красным льдом на кораблеа!
+Drop Flask : [G]=Выбросить Колбу: [G]
+
+Magic 7 ball=Волшебный шар
+Magic 7 ball collected!=Волшебный шар на корабле!
+Drop Magic 7 ball : [G]=Выбросить Волшебный шар: [G]
+
+Bubblegum=Жвачка Durex
+
+Sneakers=Кроссовки Abibas
+
+Item collected!=Предмет на корабле!
+
+Easter egg=Яичко Егора
+Easter egg collected!=Яичко Егора на кораблео!
+Toss egg: [LMB]=Кинуть Яичко: [ЛКМ]
+Drop Easter egg : [G]=Выбросить Яичко: [G]
+
+Kitchen knife=Нож Шефа
+Kitchen knife collected!=Нож Шефа на корабле!
+Stab : [LMB]=Порезать на 17 частей: [ЛКМ]
+Drop Kitchen knife : [G]=Выбросить Нож Шефа: [G]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
