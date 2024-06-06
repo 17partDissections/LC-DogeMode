@@ -1,4 +1,4 @@
 Made By 17.part.dissections, Nor
-		Actors: Nor, Skyscrapes, Fougy
+		Actors: Nor, Fougy
 Plugins assembly version: 1.5
-Doge Language version: 1.3
+Doge Language version: 1.5
