@@ -1,0 +1,114 @@
+SET-UP=ПРЕДВАРИТЕЛЬНАЯ НАСТРОЙКА
+Adjust screen brightness until the symbol on the right is barely visible.=Отрегулируйте яркость экрана так, чтобы рисунок справа был едва виден.
+This experience has been designed for in-game voice chat, so I recommend giving it a try.\n\n=Для лучшего игрового опыта рекомендуется использовать внутриигровой голосовой чат.\n\n
+> CONFIRM=> ПОДТВЕРДИТЬ
+  CONFIRM=  ПОДТВЕРДИТЬ
+
+BG IG, A System-Act Ally\n      Copyright (C) 2084-2108, Halden Electronics Inc.\n\nCPU Type      :     BORSON 300 CPU at 2500 MHz\nMemory test  :      4521586K OK\n\nBoot Distributioner Application v0.04\nCopyright (C) 2107 Distributioner\n    Detecting Sting X ROM\n    Detecting Web LNV Extender\n    Detecting Heartbeats OK\n\n\nUTGF Device Listening...\n\nBody   ID   Neural   Device Class\n________________________________________\n\n2      52   Jo152       H515\n2      52   Sa5155      H515\n2      52   Bo75        H515\n2      52   Eri510      H515\n1      36   Ell567      H515\n1      36   Jos912      H515\n0\n=      ALL NIGGERS DEAD      Copyright (C) 1941-1945, SootWorks Inc.\n\nПроцессор    :     BORSON 300 CPU, 2500 МГц\nТест памяти  :      4521586K OK\n\ПРОДАМ КОТЕНКА В РУКИ ЗООФИЛА\nJesus Never said anything about gay people.\n    Незнаю что там с твоими вытекшими стойками, но тити явно хотят чтоб [ИЗ ПЕНИСА]на них вытекла некая субстанция\n    Обнаружено Heartbeats OK\n\n\nВыявление UTGF Device...\n\nBody   ID   Neural   Device Class\n________________________________________\n\n2      52   Jo152       H515\n2      52   FUCK UKRAINE      IFUSEEDIS-UGAY      52   Bo75        GAY SEX      52   Eri510      H515\n1      36   Ell567      H515\n1      36   FDTV_MY_FATHER      H515\n0\n
+
+
+LAUNCH MODE=РЕЖИМ ВИБРАТОРА
+
+(Recommended)=(Чаще всего покупают!)
+
+> Online=> Вибратор с подвижной головкой
+  Online=  ВЫБРАТЬ: Вибратор с подвижной головкой
+> LAN=>\n\n\n\n ВЫБРАТЬ: Виброяйцо с управлением по WI-FI
+  LAN= \n\n\n Виброяйцо с управлением по WI-FI
+
+(Launched in LAN mode)=(запущено в режиме LAN. Воспользуйтесь ебаным хамачи, если ваш тиммейт не младшая сестра))
+
+> Host=> Начать тройничок
+> Join a crew=> Присоединиться к тройничку
+> Join LAN session=> Присоединиться по LAN
+> Settings=> Фрутелла
+> Credits=>Авторы, Особая благодарность
+> Quit=> Съебаться
+
+[ Confirm ]=[ОК]
+[ Back ]=[НАЗАД]
+Server name:=Имя сервера:
+Public=Играть с чурками
+PUBLIC means your game will be visible on the server list for all to see.=Играть с чурками: все чурки мира смогут зайти на этот сервер.
+Friends-only=OnlyFans
+PRIVATE means you must send invites through Steam for players to join.=OnlyFans: Ваши OnlyFans подписчики смогут зайти только по приглашению через Steam.
+Enter a tag...=Добавить тэг...
+With challenge moon=Испытание на луне
+CHALLENGE=ИСПЫТАНИЕ
+
+Host LAN Server:=Локальный сервер:
+Allow remote connections=Удаленные соединения
+Local-only=Местные соединения
+
+Save File=Папка с порнухой
+File 1=Порно\nс собаками
+File 2=Порно\nс носорогами
+File 3=Хентай\nс Арквейд
+r:"^(\$[0-9]+)\\nDays: ([0-9]+)$"=$1\nДней: $2
+
+File incompatible!=Файл с порнухой несовместим!(
+Do you want to delete File 1?=Вы действительно хотите удалить порно с собаками?
+Do you want to delete File 2?=Вы действительно хотите удалить порно с носорогами?
+Do you want to delete File 3?=Вы действительно хотите удалить хентай с Арквейд?
+Delete=Да, у меня мама проверяет\nкомп
+Go back=Не
+This is the weekly challenge moon. You have one day to make as much profit as possible.=Это еженедельная луна с испытанием. У вас есть только один день на то, чтобы заработать как можно больше прибыли.
+r:"^Challenge Moon ([\s\S]+) Results$"=Итоги испытания на луне $1
+Sort: Friends=Фильтр: друзья
+Sort: Similar rank=Фильтр: мое место
+Sort: Top 20=Фильтр: топ-20
+Loading ranking...=Загрузка рейтинга...
+(Removed score)=(прогресс сброшен)
+[ Remove my score ]= [Сбросить прогресс]
+[ Play again ]=[Играть снова]
+Deceased=погиб
+
+> Back to menu=> Вернуться в меню
+Servers=Серверы
+r:"\[MODDED]([\s\S]+)$"=[МОДЫ] $1
+Loading server list...=Загрузка списка серверов...
+No available servers to join.=Нет доступных серверов.
+Join=Зайти
+Sort: worldwide=Фильтр: мир
+Sort: near=Фильтр: рядом
+Sort: far=Фильтр: далеко
+Enter server tag...=Найти по тэгу...
+[ Refresh ]=[Обновить]
+The server is full!=Нет свободных мест!
+An error occured while spawning into the game. Please report the glitch!=Произошла неизвестная ошибка. Пожалуйста, сообщите об этом!
+An error occured!=Произошла ошибка! Ебать ты лох!
+Error! Could not get the lobby data. Are you offline?=Ошибка! Не удалось получить данные. Тебя нет в сети?
+The host has not loaded or has already landed their ship.=Создатель еще не загрузился, либо корабль уже улетел.
+r:"^The server host is playing on version ([0-9]+) while you are on version ([0-9]+)\.$"=Создатель сервера играет на $1 версии игры, а вы на $2 версии.
+
+> Confirm changes=> Подтвердить изменения
+Unconfirmed changes!=Неподтвержденные изменения!
+Discard changes=Отменить изменения
+> Back=> Назад
+DISCARD=ОТМЕНИТЬ
+BACK=НАЗАД
+> Reset all to default=> Сбросить настройки
+r:"Current input device: \\n ([\s\S]+)$"=Текущее устройство ввода: \n $1
+MODE: Voice activation=Режим: по голосу
+MODE: Push to talk=Режим: нажми и пизди
+ENABLED=ВКЛЮЧЕНО
+DISABLED=ВЫКЛЮЧЕНО
+Master volume:=Общая громкость:
+CONTROLS=УПРАВЛЕНИЕ
+Look sensitivity:=Чувствительность мыши:
+Invert Y-Axis=Инверт. ось Y
+DISPLAY=ЭКРАН
+Frame rate cap:=Ограничение частоты кадров:
+r:"^([0-9]+) FPS$"=$1 FPS
+Use monitor (V-Sync)=Частота монитора
+Uncapped=Без ограничений
+Display mode:=Режим отображения:
+Fullscreen=Полноэкранный
+Windowed fullscreen=Окно на весь экран
+Maximized window=Развернутое окно
+Window=В окне
+Gamma/Brightness:=Яркость чубриков:
+ACCESSIBILITY=ДОСТУПНОСТЬ
+Arachnophobia Mode=ИНВАЛИД-АРАХНОФОБ MODE
+Credits=Авторы
+r:"(?s)^Thanks to PuffoThePufferfish and Blueray901165 for helping shape this game. They were the closest with it through the entire process, helping me test and improve it every step of the way.\n\nThanks to my patrons who have generously supported me throughout this game's long and sometimes-rocky development:(.*)Thanks to Zenonclaw for modelling the shovel and the old elevator, which was scrapped long ago but still used for its parts.\n\nThanks to ZedFox for one of the boombox tracks \(the good one\).\n\nThanks to youreashotgun for the snare flea TV channel.\n\nAnd thanks to Noah, Seth, Null, Sam, Zenonclaw, Zedfox, and Joseph for helping playtest throughout early development.(.*)Sound effects from Freesound.org, licensed under CC-BY \(Attribution\). Thank you:(.*)$"=DogeMode:\nВерсия сборки модов:1.5\nВерсия Doge перевода: 1.5\n\nПеревод текста: <color\=#DEB887>17.part.dissections</color>\nПеревод текстур: <color\=#DEB887>17.part.dissections</color> \nОзвучка: <color\=#008B8B>Nor</color>, <color\=#006400>Fougy</color>\n\nДисклеймер:\nВесь перевод - плод больной фантазии авторов, все совпадения с реальными людьми и событиями случайны.\n<color\=#DEB887>17.part.dissections</color>: Также, хотел отдать дань уважения недавно умершей(на момент июня 2024) японской собаки породы сиба-ину по кличке Кабосу, ставшей культовым мемом больше 10-ти лет назад и получившая в сети кличку Доге(Doge). Именно в честь нее и её мема названы все наши гоблинские переводы. \n\nLethal Company:\nСпасибо PuffoThePufferfish и Blueray901165 за помощь в создании этой игры. Они были ближе всех на протяжении всего процесса, помогая мне тестировать и улучшать её на каждом этапе пути.\n\nСпасибо моим подписчикам на патреоне, которые щедро поддерживали меня на протяжении всей долгой и порой непростой разработки этой игры:$1Спасибо Zenonclaw за моделирование лопаты и старого лифта, который давно убран, но до сих пор используется по частям.\n\nСпасибо ZedFox за один из треков для бумбокса \(хороший\).\n\nСпасибо youreashotgun за телеканал «Snare Flea».\n\nИ спасибо Noah, Seth, Null,Sam, Zenonclaw, Zedfox и Joseph за помощь в тестировании на ранних этапах разработки.$2Звуковые эффекты с сайта Freesound.org, под лицензией CC-BY \(Атрибуция\). Спасибо:$3

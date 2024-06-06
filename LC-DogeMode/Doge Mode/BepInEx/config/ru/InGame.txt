@@ -1,0 +1,155 @@
+HANDS FULL=РУКИ В КОНЧЕ
+Inventory full!=[нет места в жопе]
+[Hands full]=[руки в конче]
+[Wait for ship to land]=[дождитесь окончания карьеры Киркорова]
+[Nothing to store]=[нечего положить]
+[ Not holding items ]=[в руках нет смазки]
+[Near activity detected!]=[поблизости обнаружена мама зеленского]
+[Cannot pull valve]=[Габен не поддается]
+[Pulling valve]=[в процессе]
+[Pulling cord]=[в процессе]
+(Cannot hold until ship has landed)=[невозможно до посадки на член]
+(Requires battery-powered item)=[требуется предмет на спидах]
+Locked=СУКА ЕБАННЫЕ КЛЮЧИ БЛЯДЬ ЗАЕБАЛИ УЖЕ
+r:"^Picking lock: ([0-9]{1,2}) sec.$"=[взлом замка: $1 дней]
+r:"^\[Cooldown: ([0-9]{1,3}) sec.\]$"=[восстановление: $1 дней]
+r:"^Value: (\$[0-9]+|[?]+)$"=Стоимость: $1
+r:"^VALUE: (\$[0-9]+|[?]+)$"=Стоимость: $1
+TOTAL:=ВСЕГО ХУНИ:
+(Radar-booster)=Радарный усилитель
+
+VISIBILITY LOW!\n\nSteam leak detected in area=НИЗКАЯ ВИДИМОСТЬ!\n\nОбнаружена утечка пердежа Фролова поблизости!
+Oxygen critically low!=Низкий уровень кислорода!
+(Some were too far to receive your message.)=Некоторые были слишком далеко, чтобы получить ваше сообщение.
+
+Connecting to host...=Подрубаемся...
+Loading...=Загрузка...
+Started server, joining...=Сервер запущен, подрубаем читы...
+Autosaving...=Слив персональных данных...
+
+SYSTEMS ONLINE=WINDOWS 15 ONLINE
+
+r:"([\s\S]+) joined the ship."=$1 начал поставку вооружения Тайваню.
+r:"([\s\S]+) started the ship."=$1 запустил корабль.
+r:"([\s\S]+) disconnected."=$1 отключился! причина: МГТС ГАВНО.
+r:"([\s\S]+) was left behind."=$1 остался за бортом.
+r:"([\s\S]+) was kicked."=$1 был кикнут как последняя сучка.
+
+Press "/" to talk.=Нажмите "/", чтобы\nСВО ZV ZV
+Typing...=Пишем...
+
+> Resume=> Продолжить ебашить меф
+> Invite friends=> Пригласить отчимов
+Back=Назад
+
+Would you like to leave the game?=Вы действительно хотите покинуть концерт\nLil Peep'a? это может вернуть вас к жизни!
+The file will NOT save! Your ship must be in orbit.=
+> Confirm=> Да ну его нахуй
+> Cancel=> Не
+The server host disconnected.=Создателя сервера пришибла мамка.
+
+CREW:=ТИМА РАКОВ:
+Voice volume=Громкость
+r:"^Kick out ([\s\S]+)\?$"=Кикнуть $1?
+Kick=Кикнуть
+Cancel=Отмена
+
+CRITICAL INJURY=ПОЛУЧЕН КАМШОТ
+[LIFE SUPPORT: OFFLINE]=<size%3D30>[ХАХХА ЕБАТЬ ТЫ ЛОХ]</size>
+Tell autopilot ship to leave early : [RMB] (Hold)=СУКА НЕ НАЖИМАЙ БЛЯДЬ: [идинх] (кончить)
+r:"^\(([0-9]+\/[0-9]+) Votes\)$"=($1 голосов)
+Voted for ship to leave early=КТО ТО НЕ СЛУШАЕТСЯ ПЕРЕВОДЧИКА
+Ship leaving in one hour=Корабль улетит в течение часа
+r:"^\(Spectating: ([\s\S]+)\)$"=(Зырим на: $1)
+(Dead)=(сдох)
+
+r:"^([0-9]+) lb$"=$1 фнт
+DOOR HYDRAULICS:=Я ЕБАЛ СЕСТРУ:
+r:"MONITORING: ([\s\S]+)$"=МОНИТОРИНГ: $1
+BROADCASTED SPECIAL CODE=ОТПРАВЛЕН СПЕЦ. КОД
+PERFORMANCE REPORT=<size%3D30>ОТЧЕТ О РАБОТЕ И ПОЛУЧЕННЫХ КАМШОТАХ</size>
+
+CHALLENGE RESULTS:=ИТОГИ ИСПЫТАНИЯ:
+r:"^(\$[0-9]+) Collected$"=$1 собрано
+Your rank:=РАНГ СОТРУДНИКА:
+Intern=Подхуйник(1/5)
+Part-timer=Мудила(2/5)
+Employee=СВОфорд(3/5)
+Leader=ЧСВ(4/5)
+Boss=Наталья Владимировна(5/5)
+(See how you compare to friends in the main menu leaderboard!)=Сравнивайте свои результаты с друзьями в таблице лидеров в главном меню!
+
+YOU ARE FIRED.=ТЫ УВОЛЕН. СОСИ.
+You did not meet the profit quota before the deadline.=Вы не выполнили квоту до дедлайна. Ебать вы бездари.
+Stats=Статистика
+r:"^Days on the job: ([0-9]+)\\nScrap value collected: ([0-9]+)\\nDeaths: ([0-9]+)\\nSteps taken: ([0-9]+)"=Дней на работе: $1\nСобрано скрапа на цену: $2\nСмертей: $3\nШагов пройдено: $4
+
+2 Days Left=ОСТАЛОСЬ 2 ДНЯ(пох)
+1 Day Left=ОСТАЛСЯ 1 ДЕНЬ(пох)
+0 Days Left=ОСТАЛОСЬ 0 ДНЕЙ(бля)
+TO MEET PROFIT QUOTA=<size%3D40>НА ВЫПОЛНЕНИЕ КВОТЫ</size>
+DEADLINE:\n3 Days=КРАЙНИЙ СРОК:\n3 дня
+DEADLINE:\n2 Days=КРАЙНИЙ СРОК:\n2 дня
+DEADLINE:\n1 Days=КРАЙНИЙ СРОК:\n1 день
+DEADLINE:\n0 Days=КРАЙНИЙ СРОК:\nИДИ СДАВАЙ РОДИНУ
+DEADLINE:\n NOW=КРАЙНИЙ СРОК:\nПизда вам
+AS MUCH PROFIT AS POSSIBLE=КАК МОЖНО БОЛЬШЕ ПРИБЫЛИ
+QUOTA REACHED!=<size%3D60>КВОТА ВЫПОЛНЕНА!</size>
+NEW PROFIT QUOTA:=<size%3D60>НОВАЯ КВОТА ПРИБЫЛИ:</size>
+r:"^Overtime bonus: (\$[0-9]+)$"=Премия: $1
+r:"^PROFIT QUOTA:\\n(\$[0-9]+ \/ \$[0-9]+)$"=КВОТА ПРИБЫЛИ:\n$1
+r:"^Welcome to\\n([\s\S]+)$"=Добро пожаловать на\n$1
+
+Coil=Vibrator
+Charges batteries=Заряжает настроение
+Terminal=Терминал
+Buy flashlights and travel to new planets!=Давай, скажи что MacOS лучше
+Brake lever=Рычаг
+Lands the ship.=Дрочит корабль
+Quota=Квота
+Sell scrap for cash.=Продавайте скрап
+Training manual=Хуйня полная
+Useful info!=Бесполезная информация
+Door controls=ДЕРЖИ ДВЕРЬ
+Can't stay closed forever=Закрываются на время
+Ship=Корабль
+Home base=База уклонистов
+Main entrance=Вот тут твои друзья сдохли
+Secure door=Механическая дверь
+Can be accessed from terminal=Открывается через терминал
+Data chip=Чип с записью
+
+Landmine=Коровья Лепешка
+Turret=NON-CUTE Турель
+
+HAZARD LEVEL:=LVL СИСЕК НИКИ:
+Safe=НУЛЕВОЙ
+
+r:"Body of ([\s\S]+)$"=Тело $1
+Cause of death: Gunshots=<size\=8>Причина смерти: Камшот</size>
+Cause of death: Bludgeoning=<size\=8>Причина смерти: Прибит</size>
+Cause of death: Gravity=<size\=8>Причина смерти: Упал с 2 этажа</size>
+Cause of death: Blast=<size\=8>Причина смерти: Взорван шахедом</size>
+Cause of death: Strangulation=<size\=8>Причина смерти: Массаж шеи</size>
+Cause of death: Suffocation=<size\=8>Причина смерти: БДСМ пати</size>
+Cause of death: Mauling=<size\=8>Причина смерти: Изнасилован </size>
+Cause of death: Crushing=<size\=8>Причина смерти: Раздавлен</size>
+Cause of death: Drowning=<size\=8>Причина смерти: Муму</size>
+Cause of death: Abandoned=<size\=8>Причина смерти: Пропал</size>
+Cause of death: Electrocution=<size\=8>Причина смерти: Электроудар</size>
+Cause of death: Unknown=<size\=8>Причина смерти: Не ебу</size>
+Cause of death: Kicking=<size\=8>Причина смерти: Отпинали бомжи</size>
+
+Found journal entry: 'First Log - Aug 22=Добавлена запись в журнал: "goo.su/NtcO5"
+Found journal entry: 'Smells here! - Aug 24=Добавлена запись в журнал: "u cum like a god"
+Found journal entry: 'Swing of things - Aug 27=Добавлена запись в журнал: "Да отпредолируй ты уже мою сракотлетку!"
+Found journal entry: 'Golden planet - Aug ??=Добавлена запись в журнал: "Fedotov u should see dis: goo.su/UzliHzB"
+Found journal entry: 'Shady - Aug 31=Добавлена запись в журнал: "Du Riechst So Gut.mp3"
+Found journal entry: 'Sound behind the wall - Sep 4=Еврей вылезает из бэтпещеры.mp4"
+Found journal entry: 'Goodbye - Sep 7=Добавлена запись в журнал: "Кто будет плохо сосать - будет пересасывать"
+Found journal entry: 'Screams - Sep 13=Добавлена запись в журнал: "goo.su/jGS16z"
+Found journal entry: 'Idea - Sep 19=Добавлена запись в журнал: "goo.su/2A7QVyV"
+Found journal entry: 'Nonsense - Sep 27=Добавлена запись в журнал: "Fedotov u should see dis: goo.su/UzliHzB"
+Found journal entry: 'Hiding - Sep 30=Добавлена запись в журнал: "goo.su/jGS16z"
+Found journal entry: 'Real Job - Oct 1=Добавлена запись в журнал: "Продам своего друга, который хочет трахнуть свою сестру"
+Found journal entry: 'Desmond - Oct 15=Добавлена запись в журнал: "Продам своего друга, который хочет трахнуть 6-ти классницу"
