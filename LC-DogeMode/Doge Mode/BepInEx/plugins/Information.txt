@@ -52,9 +52,16 @@ ReservedWalkieSlot
 ReservedFlashlightSlot
 	Web Page: https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/
 	File Name: ReservedFlashlightSlot.dll
-FontFixer
-	Web Page: https://thunderstore.io/c/lethal-company/p/EliteMasterEric/FontFixer/
-	Files Names: FontFixer.dll, fontfixer.bundle
+NicerTeleporters
+	Web Page: https://thunderstore.io/c/lethal-company/p/rhydiaan/NicerTeleporters/
+	File Name: NicerTeleporters.dll
+LethalLib
+	Web Page: https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/
+	Folder Name: LethalLib
+BuyableShotgunPlus
+	Web Page: https://thunderstore.io/c/lethal-company/p/Entity378/BuyableShotgunPlus/
+	File Name: BuyableShotgunPlus
+
 	
 
 

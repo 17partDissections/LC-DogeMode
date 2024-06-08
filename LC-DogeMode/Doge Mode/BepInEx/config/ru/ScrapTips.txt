@@ -1,0 +1,182 @@
+Drop Key : [G]=Дропнуть ключ от кабинета 302: [G]
+Use key : [LMB]=Отпереть дверь: [ЛКМ]
+Use key: [ LMB ]=Использовать ключ: [ЛКМ]
+
+Drop Body : [G]=Дропнуть Труп-спермоприемник: [G]
+r:"([\s\S]+) collected!"=$1 на корабле!
+
+Wear mask : [LMB]=Надеть: [ЛКМ]
+Drop Comedy : [G]=Дропнуть маску "КВН": [G]
+Drop Tragedy : [G]=Дропнуть маску "Comedy Woman": [G]
+Comedy collected!=Маска "КВН" на корабле!
+Tragedy collected!=Маска "Comedy Woman" на корабле!
+
+Drop Whoopie cushion : [G]=Дропнуть подушку-пердушку: [G]
+Whoopie cushion collected!=Подушка-пердушка Гусейнов на корабле!
+
+Drop Flask : [G]=Дропнуть колбу: [G]
+Flask collected!=Колба с красным льдом на корабле!
+
+Drop Tea kettle : [G]=Дропнуть Кирилла: [G]
+Tea kettle collected!=Кирилл на корабле!
+
+Drop Rubber Ducky : [G]=Дропнуть сучку драную: [G]
+Rubber Ducky collected!=Сучка драная на корабле!
+
+Drop Red soda : [G]=Дропнуть Добрый Кола: [G]
+Red soda collected!=Добрый Кола на корабле!
+
+Drop Plastic fish : [G]=Дропнуть пизду: [G]
+Plastic fish collected!=Пластмассовая пизда на корабле!
+
+Drop Pill bottle : [G]=Дропнуть антидепрессанты: [G]
+Pill bottle collected!=Антидепрессанты на корабле!
+
+Drop Perfume bottle : [G]=Дропнуть духи: [G]
+Perfume bottle collected!=Духи Маргариты Витальевны на корабле!
+
+Drop Painting : [G]=Дропнуть Портрет: [G]
+Painting collected!=Портрет Адольфа Гитлера на корабле!
+
+Drop Old phone : [G]=Дропнуть телефон: [G]
+Old phone collected!=Старый Nokia3310MeltyBlood_ФУНКЦИЯ С ОТЦОМ_PLANETVPN_мочаАди) на корабле!
+
+Drop Magic 7 ball : [G]=Дропнуть шар: [G]
+Magic 7 ball collected!=Магический шар на корабле!
+
+Use hairdryer : [LMB]=Включить: [ЛКМ]
+Drop Hairdryer : [G]=Дропнуть фен: [G]
+Hairdryer collected!=Фен на корабле!
+
+Drop Brush : [G]=Дропнуть расческу: [G]
+Brush collected!=Расческа Ирины Николаевны на корабле!
+
+Drop Golden cup : [G]=Дропнуть кубок: [G]
+Golden cup collected!=Кубок "Золотого Окурка" на корабле!
+
+Drop Gold bar : [G]=Дропнуть слиток: [G]
+Gold bar collected!=Золотой слиток на корабле!
+
+Drop Fancy lamp : [G]=Дропнуть лампу: [G]
+Fancy lamp collected!=Причудливая лампа на корабле!
+
+Drop Egg beater : [G]=Дропнуть венчик: [G]
+Egg beater collected!=Венчик на корабле!
+
+Drop Coffee mug : [G]=Дропнуть кружку: [G]
+Coffee mug collected!=Кружка Федотова на корабле!
+
+Drop Mug : [G]=Дропнуть кружку: [G]
+Mug collected!=Кружка на корабле!
+
+Drop Chemical jug : [G]=Дропнуть Баллон метиламина: [G]
+Chemical jug collected!=Баллон метиламина на корабле!
+
+Use cash register : [LMB]=Открыть/закрыть: [ЛКМ]
+Drop Cash register : [G]=Дропнуть кассу: [G]
+Cash register collected!=Кассовый аппарат на корабле!
+
+Drop Candy : [G]=Дропнуть сосун: [G]
+Candy collected!=сосун на корабле!
+
+Drop Bell : [G]=Дропнуть колокол: [G]
+Bell collected!=Медный колокол на корабле!
+
+Drop Teeth : [G]=Дропнуть челюсть: [G]
+Teeth collected!=Челюсть Ойрех на корабле!
+
+Drop Toothpaste : [G]=Дропнуть зубную пасту: [G]
+Toothpaste collected!=Зубная паста цвета гавна на корабле!
+
+Drop Ring : [G]=Дропнуть кольцо: [G]
+Ring collected!=Обручальное кольцо Путина на корабле!
+
+Drop Apparatus : [G]=Дропнуть генератор: [G]
+Apparatus collected!=Генератор на корабле!
+
+Drop V-type engine : [G]=Дропнуть шнягу: [G]
+V-type engine collected!=Огромная шняга ZV на корабле!
+
+Drop Large axle : [G]=Дропнуть Саню: [G]
+Large axle collected!=Кулагин Саня на корабле!
+
+Drop Bottles : [G]=Дропнуть водяру: [G]
+Bottles collected!=Ящик водяры со вкусом малины на корабле!
+
+Drop Hive : [G]=Дропнуть гнездо: [G]
+Hive collected!=Пчелиное гнездо на корабле!
+
+Swing sign : [LMB]=Пиздануть: [ЛКМ]
+Drop Stop sign : [G]=Дропнуть знак: [G]
+Drop Yield sign : [G]=Дропнуть знак: [G]
+Stop sign collected!=Знак "СТОП ГИТЛЕР" на корабле!
+Yield sign collected!=Знак "УСТУПИ ДОРОГУ ФАШИСТУ" на корабле!
+
+Drop Steering wheel : [G]=Дропнуть руль: [G]
+Steering wheel collected!=Руль на корабле!
+
+Drop Big bolt : [G]=Дропнуть БигБолт Моти: [G]
+Big bolt collected!=БигБолт Моти на корабле!
+
+Drop Metal sheet : [G]=Дропнуть лист металла: [G]
+Metal sheet collected!=Лист металла на корабле!
+
+Drop Dust pan : [G]=Дропнуть совок: [G]
+Dust pan collected!=Совок для пыли на корабле!
+
+Use airhorn : [LMB]=Стонать: [ЛКМ]
+Drop Airhorn : [G]=Дропнуть Звуки Стонов: [G]
+Airhorn collected!=Звуки Стонов на корабле!
+
+Drop Magnifying glass : [G]=Дропнуть TheLUP'у: [G]
+Magnifying glass collected!=TheLUPA на корабле!
+
+Use horn : [LMB]=Издать звук: [ЛКМ]
+Drop Clown horn : [G]=Дропнуть клаксон: [G]
+Clown horn collected!=Клоунский клаксон на корабле!
+
+Drop Toy robot : [G]=Дропнуть робота: [G]
+Toy robot collected!=Робот Долабеб на корабле!
+
+Drop Jar of pickles : [G]=Дропнуть огурцы: [G]
+Jar of pickles collected!=Огурцы копатыча на корабле!
+
+Toggle laser : [LMB]=ВКЛ/ВЫКЛ: [ЛКМ]
+Drop Laser pointer : [G]=Дропнуть указку: [G]
+Laser pointer collected!=Лазерная указка на корабле!
+
+Drop Cookie mold pan : [G]=Дропнуть форму: [G]
+Cookie mold pan collected!=Форма для выпечки на корабле!
+
+Use remote : [LMB]=Запустить ядерку: [ЛКМ]
+Drop Remote : [G]=Дропнуть пульт: [G]
+Remote collected!=Пульт на корабле!
+
+Drop Toy cube : [G]=Дропнуть Какой-то куб: [G]
+Toy cube collected!=Какой-то куб на корабле!
+
+Open gift : [LMB]=Распаковать: [ЛКМ]
+Drop Gift : [G]=Дропнуть Steam Gift: [G]
+Gift collected!=Steam Gift на корабле!
+
+Use DIY-Flashbang : [LMB]=Устроить СВО: [ЛКМ]
+Pull pin: [LMB]=Устроить СВО: [ЛКМ]
+Drop Homemade flashbang : [G]=Дропнуть гранату: [G]
+Homemade flashbang collected!=Pornhub Light Theme на корабле!
+
+Toss egg: [LMB]=Бросить яичко Егора: [ЛКМ]
+Drop Easter egg : [G]=Дропнуть яичко Егора: [G]
+Easter egg collected!=Яичко Егора на корабле!
+
+Stab : [LMB]=Расчленить на 17 частей: [ЛКМ]
+Drop Kitchen knife : [G]=Дропнуть нож: [G]
+Kitchen knife collected!=Нож на корабле!
+
+Fire : [LMB]=Стрелять: [ЛКМ]
+Reload : [E]=Перезарядить: [E]
+Turn safety on: [Q]=Поставить на предохранитель: [Q]
+Turn safety off: [Q]=Снять с предохранителя: [Q]
+Drop Shotgun : [G]=Дропнуть дробовик: [G]
+Drop Ammo : [G]=Дропнуть патрон: [G]
+Shotgun collected!=Дробовик Курт Кобейна на корабле!
+Shells collected!=Патрон на корабле!
