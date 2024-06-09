@@ -57,10 +57,10 @@ NicerTeleporters
 	File Name: NicerTeleporters.dll
 LethalLib
 	Web Page: https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/
-	Folder Name: LethalLib
+	Folder Name: LethalLib.dll
 BuyableShotgunPlus
 	Web Page: https://thunderstore.io/c/lethal-company/p/Entity378/BuyableShotgunPlus/
-	File Name: BuyableShotgunPlus
+	File Name: BuyableShotgunPlus.dll
 
 	
 

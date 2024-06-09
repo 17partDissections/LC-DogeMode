@@ -43,7 +43,7 @@ Typing...=Пишем...
 Back=Назад
 
 Would you like to leave the game?=Вы действительно хотите покинуть концерт\nLil Peep'a? это может вернуть вас к жизни!
-The file will NOT save! Your ship must be in orbit.=
+The file will NOT save! Your ship must be in orbit.=Ваш файл с порнухой не сохраниться!
 > Confirm=> Да ну его нахуй
 > Cancel=> Не
 The server host disconnected.=Создателя сервера пришибла мамка.

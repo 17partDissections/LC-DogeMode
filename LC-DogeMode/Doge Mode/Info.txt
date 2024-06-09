@@ -1,4 +1,4 @@
 Made By 17.part.dissections, Nor
 		Actors: Nor, Fougy
-Plugins assembly version: 1.5.2
+Plugins assembly version: 1.5.3
 Doge Language version: 1.4
