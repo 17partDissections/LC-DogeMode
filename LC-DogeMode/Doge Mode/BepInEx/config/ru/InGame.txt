@@ -1,7 +1,7 @@
 HANDS FULL=РУКИ В КОНЧЕ
 Inventory full!=[нет места в жопе]
 [Hands full]=[руки в конче]
-[Wait for ship to land]=[дождитесь окончания карьеры Киркорова]
+[Wait for ship to land]=[дождитесь окончания карьеры Путина]
 [Nothing to store]=[нечего положить]
 [ Not holding items ]=[в руках нет смазки]
 [Near activity detected!]=[поблизости обнаружена мама зеленского]
@@ -15,10 +15,11 @@ r:"^Picking lock: ([0-9]{1,2}) sec.$"=[взлом замка: $1 дней]
 r:"^\[Cooldown: ([0-9]{1,3}) sec.\]$"=[восстановление: $1 дней]
 r:"^Value: (\$[0-9]+|[?]+)$"=Стоимость: $1
 r:"^VALUE: (\$[0-9]+|[?]+)$"=Стоимость: $1
-TOTAL:=ВСЕГО ХУНИ:
+TOTAL:=ВСЕГО ХУЙНИ:
 (Radar-booster)=Радарный усилитель
 
-VISIBILITY LOW!\n\nSteam leak detected in area=НИЗКАЯ ВИДИМОСТЬ!\n\nОбнаружена утечка пердежа Фролова поблизости!
+
+VISIBILITY LOW!\n\nSteam leak detected in area=НИЗКАЯ ВИДИМОСТЬ!\n\nОбнаружена утечка пердежа поблизости!
 Oxygen critically low!=Низкий уровень кислорода!
 (Some were too far to receive your message.)=Некоторые были слишком далеко, чтобы получить ваше сообщение.
 
@@ -27,7 +28,7 @@ Loading...=Загрузка...
 Started server, joining...=Сервер запущен, подрубаем читы...
 Autosaving...=Слив персональных данных...
 
-SYSTEMS ONLINE=WINDOWS 15 ONLINE
+SYSTEMS ONLINE=ПОРА ВЗДРАЧНУТЬ
 
 r:"([\s\S]+) joined the ship."=$1 начал поставку вооружения Тайваню.
 r:"([\s\S]+) started the ship."=$1 запустил корабль.
@@ -120,10 +121,10 @@ Can be accessed from terminal=Открывается через терминал
 Data chip=Чип с записью
 
 Landmine=Коровья Лепешка
-Turret=NON-CUTE Турель
+Turret=Марк-Турель
 
-HAZARD LEVEL:=LVL СИСЕК НИКИ:
-Safe=НУЛЕВОЙ
+HAZARD LEVEL:=УГРОЗА УРОВНЯ
+Safe=0
 
 r:"Body of ([\s\S]+)$"=Тело $1
 Cause of death: Gunshots=<size\=8>Причина смерти: Камшот</size>

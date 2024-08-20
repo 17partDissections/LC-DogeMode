@@ -1,7 +1,7 @@
 Mods list:
-Better Spectate
-	Web Page: https://thunderstore.io/c/lethal-company/p/Fusition/BetterSpectate/
-	File Name: BetterSpectate.dll
+BiggerLobby
+	Web Page: https://thunderstore.io/c/lethal-company/p/bizzlemip/BiggerLobby/
+	Files Names: BiggerLobby.dll, statsuireferences
 More Stamina
 	Web Page: https://thunderstore.io/c/lethal-company/p/saretrar_legit/MoreStamina/
 	File Name: BetterStamina.dll
@@ -17,9 +17,10 @@ Custom Sounds
 LCSoundTool
 	Web Page: https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool/
 	File Name: LC_SoundTool.dll
-//LethalLib
-	//Web Page: https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/
-	//Files Names: LethalLib.dll, lethallib
+LethalLib
+	Web Page: https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/
+	Files Names: LethalLib.dll
+	Directory Name: lethallib
 NameplateTweaks
 	Web Page: https://thunderstore.io/c/lethal-company/p/taffyko/NameplateTweaks/
 	File Name: NameplateTweaks.dll
@@ -40,9 +41,6 @@ More suits
 LC API V50
 	Web Page: https://thunderstore.io/c/lethal-company/p/DrFeederino/LC_API_V50/
 	Files Names: LC_API_V50.dll, networking
-LootableLandmines
-	Web Page: https://thunderstore.io/c/lethal-company/p/Procyon/LootableLandmines/
-	File Name: LootableLandmines.dll
 ReservedItemSlotCore
 	Web Page: https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/
 	File Name: ReservedItemSlotCore.dll
@@ -55,9 +53,6 @@ ReservedFlashlightSlot
 NicerTeleporters
 	Web Page: https://thunderstore.io/c/lethal-company/p/rhydiaan/NicerTeleporters/
 	File Name: NicerTeleporters.dll
-LethalLib
-	Web Page: https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/
-	Folder Name: LethalLib.dll
 BuyableShotgunPlus
 	Web Page: https://thunderstore.io/c/lethal-company/p/Entity378/BuyableShotgunPlus/
 	File Name: BuyableShotgunPlus.dll
