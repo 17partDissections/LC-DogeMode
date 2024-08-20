@@ -56,6 +56,28 @@ NicerTeleporters
 BuyableShotgunPlus
 	Web Page: https://thunderstore.io/c/lethal-company/p/Entity378/BuyableShotgunPlus/
 	File Name: BuyableShotgunPlus.dll
+JumpDelayPatch
+	Web Page: https://thunderstore.io/c/lethal-company/p/monkes_mods/JumpDelayPatch/
+	File Name:JumpDelayPatch.dll 
+HealthStation
+	Web Page:https://thunderstore.io/c/lethal-company/p/Thorlar/HealthStation/
+	File Name:OctolarFirstMod.dll
+Hold Scan Button
+	Web Page:https://thunderstore.io/c/lethal-company/p/FutureSavior/Hold_Scan_Button/
+	File Name:HoldScanButton.dll
+BetterTeleporter
+	Web Page:https://thunderstore.io/c/lethal-company/p/SirTyler/BetterTeleporter/
+	File Name:BetterTeleporter.dll
+MoreBlood
+	Web Page:https://thunderstore.io/c/lethal-company/p/FlipMods/MoreBlood/
+	File Name:MoreBlood.dll
+Mimics
+	Web Page:https://thunderstore.io/c/lethal-company/p/x753/Mimics/
+	File Name:Mimics.dll
+ViewExtension
+	Web Page:https://thunderstore.io/c/lethal-company/p/sfDesat/ViewExtension/
+	File Name:ViewExtension.dll
+
 
 	
 
