@@ -4,36 +4,33 @@ This experience has been designed for in-game voice chat, so I recommend giving 
 > CONFIRM=> ПОДТВЕРДИТЬ
   CONFIRM=  ПОДТВЕРДИТЬ
 
-BG IG, A System-Act Ally\n      Copyright (C) 2084-2108, Halden Electronics Inc.\n\nCPU Type      :     BORSON 300 CPU at 2500 MHz\nMemory test  :      4521586K OK\n\nBoot Distributioner Application v0.04\nCopyright (C) 2107 Distributioner\n    Detecting Sting X ROM\n    Detecting Web LNV Extender\n    Detecting Heartbeats OK\n\n\nUTGF Device Listening...\n\nBody   ID   Neural   Device Class\n________________________________________\n\n2      52   Jo152       H515\n2      52   Sa5155      H515\n2      52   Bo75        H515\n2      52   Eri510      H515\n1      36   Ell567      H515\n1      36   Jos912      H515\n0\n=      ALL NIGGERS DEAD      Copyright (C) 1941-1945, SootWorks Inc.\n\nПроцессор    :     BORSON 300 CPU, 2500 МГц\nТест памяти  :      4521586K OK\n\ПРОДАМ КОТЕНКА В РУКИ ЗООФИЛА\nJesus Never said anything about gay people.\n    Незнаю что там с твоими вытекшими стойками, но тити явно хотят чтоб [ИЗ ПЕНИСА]на них вытекла некая субстанция\n    Обнаружено Heartbeats OK\n\n\nВыявление UTGF Device...\n\nBody   ID   Neural   Device Class\n________________________________________\n\n2      52   Jo152       H515\n2      52   FUCK UKRAINE      IFUSEEDIS-UGAY      52   Bo75        GAY SEX      52   Eri510      H515\n1      36   Ell567      H515\n1      36   FDTV_MY_FATHER      H515\n0\n
+BG IG, A System-Act Ally\n      Copyright (C) 2084-2108, Halden Electronics Inc.\n\nCPU Type      :     BORSON 300 CPU at 2500 MHz\nMemory test  :      4521586K OK\n\nBoot Distributioner Application v0.04\nCopyright (C) 1488 Distributioner\n    Detecting Sting X ROM\n    Detecting Web LNV Extender\n    Detecting Heartbeats OK\n\n\nUTGF Device Listening...\n\nBody   ID   Neural   Device Class\n________________________________________\n\n2      52   Jo152       H515\n2      52   Sa5155      H515\n2      52   Bo75        H515\n2      52   Eri510      H515\n1      36   Ell567      H515\n1      36   Jos912      H515\n0\n=      ALL NIGGERS DEAD      Copyright (C) 1941-1945, Pidoras Inc.\n\nПроцессор    :     BORSON 300 CPU, 2500 МГц\nТест памяти  :      4521586K OK\n\ПРОДАМ ДОЧЬ ЦЫГАНА\nJesus Never said anything about gay people.\n    Незнаю что там с твоими вытекшими стойками, но тити явно хотят чтоб [ИЗ ПЕНИСА]на них вытекла некая субстанция\n    Обнаружено СПИД OK\n\n\nВыявление UTGF Device...\n\nBody   ID   Neural   Device Class\n________________________________________\n\n2      42   Jo152       H515\n2      42   FUCK VENOM      IFUSEEDIS-UGAY      42   Bo75        SENOM VEX      42   Eri510      H515\n1      14   Ell998      H515\n1      88   FDTV_MY_FATHER      H228\n0\n
 
-LAUNCH MODE=РЕЖИМ ВИБРАТОРА
+LAUNCH MODE=РЕЖИМ ЗАПУСКА
+  Online=  По сети
+> Online=> По сети
+(Recommended)= (рекомендуется)
+  LAN=  Локально
+> LAN=> Локально
+(Launched in LAN mode)=(запущено в режиме локальной сети)
 
-(Recommended)=(Чаще всего покупают!)
-
-> Online=> Вибратор с подвижной головкой
-  Online=  ВЫБРАТЬ: Вибратор с подвижной головкой
-> LAN=>\n\n\n\n ВЫБРАТЬ: Виброяйцо с управлением по WI-FI
-  LAN= \n\n\n Виброяйцо с управлением по WI-FI
-(Launched in LAN mode)=(запущено в режиме LAN. Воспользуйтесь ебаным хамачи, если ваш тиммейт не младшая сестра))
-
-> Host=> Начать тройничок
+> Host=> Захостить тройничок
 > Join a crew=> Присоединиться к тройничку
-> Join LAN session=> Присоединиться по LAN
+> Join LAN session=> Присоединиться к LAN
 > Settings=> Фрутелла
-> Credits=>Авторы, Особая благодарность
+> Credits=> Авторы, Особая благодарность
 > Quit=> Съебаться
 
 [ Confirm ]=[ОК]
 [ Back ]=[НАЗАД]
 Server name:=Имя сервера:
 Public=Играть с чурками
-PUBLIC means your game will be visible on the server list for all to see.=Играть с чурками: все чурки мира смогут зайти на этот сервер.
+PUBLIC means your game will be visible on the server list for all to see.=Играть с чурками: все чурки Москвы смогут зайти на этот сервер.
 Friends-only=OnlyFans
 PRIVATE means you must send invites through Steam for players to join.=OnlyFans: Ваши OnlyFans подписчики смогут зайти только по приглашению через Steam.
 Enter a tag...=Добавить тэг...
 With challenge moon=Испытание на луне
 CHALLENGE=ИСПЫТАНИЕ
-
 
 Host LAN Server:=Локальный сервер:
 Allow remote connections=Удаленные соединения
@@ -41,14 +38,13 @@ Local-only=Местные соединения
 
 Save File=Папка с порнухой
 File 1=Порно\nс собаками
-File 2=Порно\nс носорогами
-File 3=Хентай\nс Арквейд
+File 2=Обычное\nПорно
+File 3=Хентай\nс Кохаку
 r:"^(\$[0-9]+)\\nDays: ([0-9]+)$"=$1\nДней: $2
-
 File incompatible!=Файл с порнухой несовместим!(
 Do you want to delete File 1?=Вы действительно хотите удалить порно с собаками?
-Do you want to delete File 2?=Вы действительно хотите удалить порно с носорогами?
-Do you want to delete File 3?=Вы действительно хотите удалить хентай с Арквейд?
+Do you want to delete File 2?=Вы действительно хотите удалить обычное порно?
+Do you want to delete File 3?=Вы действительно хотите удалить хентай с Кохаку
 Delete=Да, у меня мама проверяет\nкомп
 Go back=Не
 
@@ -75,11 +71,11 @@ Sort: far=Фильтр: далеко
 Enter server tag...=Найти по тэгу...
 [ Refresh ]=[Обновить]
 The server is full!=Нет свободных мест!
-An error occured while spawning into the game. Please report the glitch!=Произошла неизвестная ошибка. Пожалуйста, сообщите об этом!
+An error occured while spawning into the game. Please report the glitch!=Произошла неизвестная ошибка. Иди убейся.
 An error occured!=Произошла ошибка! Ебать ты лох!
-Error! Could not get the lobby data. Are you offline?=Ошибка! Не удалось получить данные. Тебя нет в сети?
-The host has not loaded or has already landed their ship.=Создатель еще не загрузился, либо корабль уже улетел.
-r:"^The server host is playing on version ([0-9]+) while you are on version ([0-9]+)\.$"=Создатель сервера играет на $1 версии игры, а вы на $2 версии.
+Error! Could not get the lobby data. Are you offline?=Ошибка! Не удалось получить СНИЛС. Вас нет в ГосУслугах?
+The host has not loaded or has already landed their ship.=ХОСТ не загрузился, либо корабль уже съебался.
+r:"^The server host is playing on version ([0-9]+) while you are on version ([0-9]+)\.$"=ХОСТ сервера ебашит на $1 версии игры, а вы на $2 версии.
 
 > Confirm changes=> Подтвердить изменения
 Unconfirmed changes!=Неподтвержденные изменения!

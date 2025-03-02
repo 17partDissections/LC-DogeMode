@@ -1,16 +1,16 @@
 HANDS FULL=РУКИ В КОНЧЕ
-Inventory full!=[нет места в жопе]
+Inventory full!=[нема місця в інвентарі]
 [Hands full]=[руки в конче]
 [Wait for ship to land]=[дождитесь окончания карьеры Путина]
 [Nothing to store]=[нечего положить]
-[ Not holding items ]=[в руках нет смазки]
+[ Not holding items ]=[в руках нет предмета]
 [Near activity detected!]=[поблизости обнаружена мама зеленского]
 [Cannot pull valve]=[Габен не поддается]
 [Pulling valve]=[в процессе]
 [Pulling cord]=[в процессе]
 (Cannot hold until ship has landed)=[невозможно до посадки на член]
 (Requires battery-powered item)=[требуется предмет на спидах]
-Locked=СУКА ЕБАННЫЕ КЛЮЧИ БЛЯДЬ ЗАЕБАЛИ УЖЕ
+Locked=НА ТЕБЕ ЕБАНЫЙ ЗАМОООК. КАКОЙ ЖЕ ЕКЛЮЧ?\nЯ Е Б А Л Т В О Ю М А Т Ь
 r:"^Picking lock: ([0-9]{1,2}) sec.$"=[взлом замка: $1 дней]
 r:"^\[Cooldown: ([0-9]{1,3}) sec.\]$"=[восстановление: $1 дней]
 r:"^Value: (\$[0-9]+|[?]+)$"=Стоимость: $1
@@ -18,40 +18,40 @@ r:"^VALUE: (\$[0-9]+|[?]+)$"=Стоимость: $1
 TOTAL:=ВСЕГО ХУЙНИ:
 (Radar-booster)=Радарный усилитель
 
-
-VISIBILITY LOW!\n\nSteam leak detected in area=НИЗКАЯ ВИДИМОСТЬ!\n\nОбнаружена утечка пердежа поблизости!
+VISIBILITY LOW!\n\nSteam leak detected in area=НИЗКАЯ ВИДИМОСТЬ!\n\nОбнаружена утечка Циклона-Б поблизости.
 Oxygen critically low!=Низкий уровень кислорода!
 (Some were too far to receive your message.)=Некоторые были слишком далеко, чтобы получить ваше сообщение.
 
 Connecting to host...=Подрубаемся...
 Loading...=Загрузка...
-Started server, joining...=Сервер запущен, подрубаем читы...
+Started server, joining...=Сервер запущен, Timed out
 Autosaving...=Слив персональных данных...
 
 SYSTEMS ONLINE=ПОРА ВЗДРАЧНУТЬ
 
-r:"([\s\S]+) joined the ship."=$1 начал поставку вооружения Тайваню.
+r:"([\s\S]+) joined the ship."=$1 присоединился в TeamSpeak.
 r:"([\s\S]+) started the ship."=$1 запустил корабль.
 r:"([\s\S]+) disconnected."=$1 отключился! причина: МГТС ГАВНО.
 r:"([\s\S]+) was left behind."=$1 остался за бортом.
 r:"([\s\S]+) was kicked."=$1 был кикнут как последняя сучка.
 
-Press "/" to talk.=Нажмите "/", чтобы\nСВО ZV ZV
+Press "/" to talk.=Нажмите "/", чтобы\nGG Z EZ ZOV
 Typing...=Пишем...
 
 > Resume=> Продолжить ебашить меф
-> Invite friends=> Пригласить отчимов
+> Invite friends=> Пригласить отпрысков
 Back=Назад
 
-Would you like to leave the game?=Вы действительно хотите покинуть концерт\nLil Peep'a? это может вернуть вас к жизни!
+
+Would you like to leave the game?=Вы действительно хотите покинуть концерт\nJuice WRLD'a? это может вернуть вас к жизни!
 The file will NOT save! Your ship must be in orbit.=Ваш файл с порнухой не сохраниться!
 > Confirm=> Да ну его нахуй
 > Cancel=> Не
-The server host disconnected.=Создателя сервера пришибла мамка.
+The server host disconnected.=Создателя сервера бьет мать.
 
 CREW:=ТИМА РАКОВ:
 Voice volume=Громкость
-r:"^Kick out ([\s\S]+)\?$"=Кикнуть $1?
+r:"^Kick out ([\s\S]+)\?$"=Выгнать $1?
 Kick=Кикнуть
 Cancel=Отмена
 
@@ -59,13 +59,13 @@ CRITICAL INJURY=ПОЛУЧЕН КАМШОТ
 [LIFE SUPPORT: OFFLINE]=<size%3D30>[ХАХХА ЕБАТЬ ТЫ ЛОХ]</size>
 Tell autopilot ship to leave early : [RMB] (Hold)=СУКА НЕ НАЖИМАЙ БЛЯДЬ: [идинх] (кончить)
 r:"^\(([0-9]+\/[0-9]+) Votes\)$"=($1 голосов)
-Voted for ship to leave early=КТО ТО НЕ СЛУШАЕТСЯ ПЕРЕВОДЧИКА
-Ship leaving in one hour=Корабль улетит в течение часа
-r:"^\(Spectating: ([\s\S]+)\)$"=(Зырим на: $1)
+Voted for ship to leave early=КАКОЙ-ТА ПИДАРАС НАЖАЛ НА КНОПКУ!!!
+Ship leaving in one hour=ПИЗДЕЦ Корабль улетит в течение часа
+r:"^\(Spectating: ([\s\S]+)\)$"=(Зырим за: $1)
 (Dead)=(сдох)
 
-r:"^([0-9]+) lb$"=$1 фнт
-DOOR HYDRAULICS:=Я ЕБАЛ СЕСТРУ:
+r:"^([0-9]+) lb$"=$1 кг спермы
+DOOR HYDRAULICS:=Q17pD Was Here
 r:"MONITORING: ([\s\S]+)$"=МОНИТОРИНГ: $1
 BROADCASTED SPECIAL CODE=ОТПРАВЛЕН СПЕЦ. КОД
 PERFORMANCE REPORT=<size%3D30>ОТЧЕТ О РАБОТЕ И ПОЛУЧЕННЫХ КАМШОТАХ</size>
@@ -73,27 +73,27 @@ PERFORMANCE REPORT=<size%3D30>ОТЧЕТ О РАБОТЕ И ПОЛУЧЕННЫХ
 CHALLENGE RESULTS:=ИТОГИ ИСПЫТАНИЯ:
 r:"^(\$[0-9]+) Collected$"=$1 собрано
 Your rank:=РАНГ СОТРУДНИКА:
-Intern=Подхуйник(1/5)
-Part-timer=Мудила(2/5)
-Employee=СВОфорд(3/5)
-Leader=ЧСВ(4/5)
-Boss=Наталья Владимировна(5/5)
-(See how you compare to friends in the main menu leaderboard!)=Сравнивайте свои результаты с друзьями в таблице лидеров в главном меню!
+Intern=Герантофил(1/5)
+Part-timer=Футфетешист(2/5)
+Employee=Фурриёб(3/5)
+Leader=Дендрофил(4/5)
+Boss=Апотемнофил(5/5)
+(See how you compare to friends in the main menu leaderboard!)=Сравнивайте свои результаты с отпрысками в таблице лидеров в главном меню!
 
-YOU ARE FIRED.=ТЫ УВОЛЕН. СОСИ.
-You did not meet the profit quota before the deadline.=Вы не выполнили квоту до дедлайна. Ебать вы бездари.
+YOU ARE FIRED.=ТЫ УВОЛЕН. ХА-ХА, ДРОЧИЛА
+You did not meet the profit quota before the deadline.=ы не выполнили квоту до дедлайна. Ебать вы бездари.
 Stats=Статистика
-r:"^Days on the job: ([0-9]+)\\nScrap value collected: ([0-9]+)\\nDeaths: ([0-9]+)\\nSteps taken: ([0-9]+)"=Дней на работе: $1\nСобрано скрапа на цену: $2\nСмертей: $3\nШагов пройдено: $4
+r:"^Days on the job: ([0-9]+)\\nScrap value collected: ([0-9]+)\\nDeaths: ([0-9]+)\\nSteps taken: ([0-9]+)"=Дней пахали: $1\nСобрано скрапа на цену: $2\nКамшотов: $3\nШагов пройдено: $4
 
-2 Days Left=ОСТАЛОСЬ 2 ДНЯ(пох)
-1 Day Left=ОСТАЛСЯ 1 ДЕНЬ(пох)
-0 Days Left=ОСТАЛОСЬ 0 ДНЕЙ(бля)
+2 Days Left=ОСТАЛОСЬ 2 ДНЯ
+1 Day Left=ОСТАЛСЯ 1 ДЕНЬ
+0 Days Left=БЛЯ ОСТАЛОСЬ 0 ДНЕЙ
 TO MEET PROFIT QUOTA=<size%3D40>НА ВЫПОЛНЕНИЕ КВОТЫ</size>
 DEADLINE:\n3 Days=КРАЙНИЙ СРОК:\n3 дня
 DEADLINE:\n2 Days=КРАЙНИЙ СРОК:\n2 дня
 DEADLINE:\n1 Days=КРАЙНИЙ СРОК:\n1 день
 DEADLINE:\n0 Days=КРАЙНИЙ СРОК:\nИДИ СДАВАЙ РОДИНУ
-DEADLINE:\n NOW=КРАЙНИЙ СРОК:\nПизда вам
+DEADLINE:\n NOW=КРАЙНИЙ СРОК:\nПИЗДА ВАМ
 AS MUCH PROFIT AS POSSIBLE=КАК МОЖНО БОЛЬШЕ ПРИБЫЛИ
 QUOTA REACHED!=<size%3D60>КВОТА ВЫПОЛНЕНА!</size>
 NEW PROFIT QUOTA:=<size%3D60>НОВАЯ КВОТА ПРИБЫЛИ:</size>
@@ -120,26 +120,23 @@ Secure door=Механическая дверь
 Can be accessed from terminal=Открывается через терминал
 Data chip=Чип с записью
 
-Landmine=Коровья Лепешка
-Turret=Марк-Турель
-
 HAZARD LEVEL:=УГРОЗА УРОВНЯ
 Safe=0
 
 r:"Body of ([\s\S]+)$"=Тело $1
-Cause of death: Gunshots=<size\=8>Причина смерти: Камшот</size>
-Cause of death: Bludgeoning=<size\=8>Причина смерти: Прибит</size>
-Cause of death: Gravity=<size\=8>Причина смерти: Упал с 2 этажа</size>
-Cause of death: Blast=<size\=8>Причина смерти: Взорван шахедом</size>
-Cause of death: Strangulation=<size\=8>Причина смерти: Массаж шеи</size>
-Cause of death: Suffocation=<size\=8>Причина смерти: БДСМ пати</size>
-Cause of death: Mauling=<size\=8>Причина смерти: Изнасилован </size>
-Cause of death: Crushing=<size\=8>Причина смерти: Раздавлен</size>
-Cause of death: Drowning=<size\=8>Причина смерти: Муму</size>
-Cause of death: Abandoned=<size\=8>Причина смерти: Пропал</size>
-Cause of death: Electrocution=<size\=8>Причина смерти: Электроудар</size>
-Cause of death: Unknown=<size\=8>Причина смерти: Не ебу</size>
-Cause of death: Kicking=<size\=8>Причина смерти: Отпинали бомжи</size>
+Cause of death: Gunshots=Причина смерти: Камшот
+Cause of death: Bludgeoning=Причина смерти: Прибит
+Cause of death: Gravity=Причина смерти: Упал с 2 этажа
+Cause of death: Blast=Причина смерти: Взорван шахедом
+Cause of death: Strangulation=Причина смерти: Массаж шеи
+Cause of death: Suffocation=Причина смерти: БДСМ пати
+Cause of death: Mauling=Причина смерти: Изнасилован 
+Cause of death: Crushing=Причина смерти: Раздавлен
+Cause of death: Drowning=Причина смерти: Муму
+Cause of death: Abandoned=Причина смерти: Пропал
+Cause of death: Electrocution=Причина смерти: Электроудар
+Cause of death: Unknown=Причина смерти: Не ебу
+Cause of death: Kicking=Причина смерти: Отпинали бомжи
 
 Found journal entry: 'First Log - Aug 22=Добавлена запись в журнал: "goo.su/NtcO5"
 Found journal entry: 'Smells here! - Aug 24=Добавлена запись в журнал: "u cum like a god"

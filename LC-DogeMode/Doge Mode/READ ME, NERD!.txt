@@ -1,0 +1,192 @@
+Lethal Company Doge Mode version 2.0 made by Q17pD(Github: 17partDissections) (
+	other contributors:
+		Nor(Github: dep-q)
+)
+Voice actors, used in this mode: Nor(Github: dep-q), Fougy
+
+Plugins pack version: 2.0
+
+Plugins List:
+	XUnity AutoTranslator
+		Version: 5.3.0
+		Web Page: https://thunderstore.io/c/lethal-company/p/Hayrizan/XUnity_AutoTranslator/
+		File Name: core\XUnity.Common.dll
+		Directories Names: plugins\XUnity.ResourceRedirector, plugins\XUnity.AutoTranslator
+	Doge Language
+		Version: 2.0
+		Files Names: 
+			config\gravydevsupreme.xunity.resourceredirector.cfg,
+			config\AutoTranslatorConfig.ini
+			plugins\RussianTranslateTerminal.dll
+		Directories Names: config\ru	
+	LC API V50
+		Version: 3.4.12
+		Web Page: https://thunderstore.io/c/lethal-company/p/DrFeederino/LC_API_V50/
+		Files Names: plugins\LC_API_V50.dll, plugins\networking
+	LethalLib
+		Version: 0.16.2
+		Web Page: https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/
+		Files Names: plugins\LethalLib.dll, plugins\lethallib
+	HookGenPatcher
+		Version: 0.0.5
+		Web Page: https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/
+		Directories Names: patchers, config
+	Runtime Netcode Patcher
+		Version: 0.2.5
+		Web Page: https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/
+		File Name: plugins\NicholaScott.BepInEx.RuntimeNetcodeRPCValidator.dll
+	LethalCompany InputUtils
+		Version: 0.7.10
+		Web Page: https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/
+		Directory Name: plugins\LethalCompanyInputUtils
+	NilsHUD
+		Version: 1.0.6
+		Web Page: https://thunderstore.io/c/lethal-company/p/Nilaier/NilsHUD/
+		File Name: plugins\NilsHUD.dll
+	Emblem
+		Version: 1.6.4
+		Web Page: https://thunderstore.io/c/lethal-company/p/Darkbrewery/Emblem/
+		File Name: plugins\Emblem.dll
+		Directory Name: plugins\Emblem
+	LCSoundTool
+		Version: 1.5.1
+		Web Page: https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool/
+		File Name: plugins\LC_SoundTool.dll
+	Custom Sounds
+		Version: 2.3.2
+		Web Page: https://thunderstore.io/c/lethal-company/p/Clementinise/CustomSounds/
+		File Name: plugins\CustomSounds.dll
+		Directory Name: plugins\CustomSounds
+	MoreCompany
+		Version: 1.11.0
+		Web Page: https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/
+		File Name: plugins\MoreCompany.dll
+		Directory Name: plugins\MoreCompanyCosmetics
+	?NameplateTweaks
+		Version: 1.0.7
+		Web Page: https://thunderstore.io/c/lethal-company/p/taffyko/NameplateTweaks/
+		File Name: plugins\NameplateTweaks.dll
+	ViewExtension
+		Version: 1.3.0
+		Web Page: https://thunderstore.io/c/lethal-company/p/sfDesat/ViewExtension/
+		File Names: plugins\ViewExtension.dll, plugins\viewextensionassetbundle
+	Better Emotes
+		Version: 1.5.4
+		Web Page: https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/
+		File Name: plugins\BetterEmotes.dll
+		Directory Name: plugins\BetterEmotes
+	More Suits
+		Version: 1.5.1
+		Web Page: https://thunderstore.io/c/lethal-company/p/x753/More_Suits/
+		File Name: plugins\MoreSuits.dll
+		Directories Names: plugins\moresuits, config\MoreSuitsConfig
+	Lunxaras Hats
+		Version: 2.0.0
+		Web Page: https://thunderstore.io/c/lethal-company/p/Lunxara/Lunxaras_Hats/
+		File Name: plugins\MoreSuits.dll
+		Files Names: 
+				plugins\MoreCompanyCosmetics\alexandria.cosmetics, 
+				plugins\MoreCompanyCosmetics\eva.cosmetics, 
+				plugins\MoreCompanyCosmetics\icegirl.cosmetics,
+				plugins\MoreCompanyCosmetics\kylie.cosmetics,
+				plugins\MoreCompanyCosmetics\lyra.cosmetics,
+				plugins\MoreCompanyCosmetics\zuri.cosmetics,
+	Tazawas Cosmetics
+		Version: 1.3.1
+		Web Page: https://thunderstore.io/c/lethal-company/p/Catshape/Tazawas_Cosmetics/
+		File Name: 
+		Files Names: 
+				plugins\MoreCompanyCosmetics\tazawag.amongushat.cosmetics,
+				plugins\MoreCompanyCosmetics\tazawag.amonguslshoulder.cosmetics,
+				plugins\MoreCompanyCosmetics\tazawag.amongusrshoulder.cosmetics,
+				plugins\MoreCompanyCosmetics\tazawag.catheadphones.cosmetics,
+				plugins\MoreCompanyCosmetics\tazawag.petmaneater.cosmetics,
+				plugins\MoreCompanyCosmetics\tazawag.pixelsunglasses.cosmetics,
+				plugins\MoreCompanyCosmetics\tazawag.spoonantennas.cosmetics,
+				plugins\MoreCompanyCosmetics\tazawag.stevehead.cosmetics,
+	Atomics Cosmetics
+		Version: 1.3.4
+		Web Page: https://thunderstore.io/c/lethal-company/p/AtomicStudio/Atomics_Cosmetics/
+		File Name: 
+		Files Names: 
+				plugins\MoreCompanyCosmetics\anya.cosmetics,
+				plugins\MoreCompanyCosmetics\blush.cosmetics,
+				plugins\MoreCompanyCosmetics\candy-cane.cosmetics,
+				plugins\MoreCompanyCosmetics\cone.cosmetics,
+				plugins\MoreCompanyCosmetics\dog-collar.cosmetics,
+				plugins\MoreCompanyCosmetics\donut.cosmetics,
+				plugins\MoreCompanyCosmetics\halo.cosmetics,
+				plugins\MoreCompanyCosmetics\helmet.cosmetics,
+				plugins\MoreCompanyCosmetics\stickynote.cosmetics,
+				plugins\MoreCompanyCosmetics\tie.cosmetics,
+				plugins\MoreCompanyCosmetics\ultra_kill_wings.cosmetics,
+				plugins\MoreCompanyCosmetics\unltrakill_v1.cosmetics,
+				plugins\MoreCompanyCosmetics\valve.cosmetics,
+				plugins\MoreCompanyCosmetics\witches-hat.cosmetics,
+
+	MoreBlood
+		Version: 1.0.3
+		Web Page: https://thunderstore.io/c/lethal-company/p/FlipMods/MoreBlood/
+		File Name: plugins\MoreBlood.dll
+	BetterStamina
+		Version: 1.5.5
+		Web Page: https://thunderstore.io/c/lethal-company/p/FlipMods/BetterStamina/
+		File Name: plugins\BetterStamina.dll
+	Better Flashlight
+		Version: 1.0.6
+		Web Page: https://thunderstore.io/c/lethal-company/p/Lega/BetterFlashlight/
+		File Name: plugins\BetterFlashlight.dll
+	BetterTeleporter
+		Version: 1.2.2
+		Web Page: https://thunderstore.io/c/lethal-company/p/SirTyler/BetterTeleporter/
+		File Name: plugins\BetterTeleporter.dll
+	ReservedItemSlotCore
+		Version: 2.0.44
+		Web Page: https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/
+		File Name: plugins\ReservedItemSlotCore.dll
+	ReservedWalkieSlot
+		Version: 2.0.7
+		Web Page: https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/
+		File Name: plugins\ReservedWalkieSlot.dll
+	ReservedFlashlightSlot
+		Version: 2.0.10 
+		Web Page: https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/
+		File Name: plugins\ReservedFlashlightSlot.dll
+	BuyableShotgunPlus
+		Version: 1.3.2
+		Web Page: https://thunderstore.io/c/lethal-company/p/Entity378/BuyableShotgunPlus/
+		Directory Name: plugins\BuyableShotgunPlus
+	HealthStation
+		Version: 1.0.1
+		Web Page: https://thunderstore.io/c/lethal-company/p/Thorlar/HealthStation/
+		File Name: plugins\OctolarFirstMod.dll
+	Mimics
+		Version: 2.6.4
+		Web Page: https://thunderstore.io/c/lethal-company/p/x753/Mimics/
+		File Name: plugins\Mimics.dll
+	Something
+		Version: 0.3.0
+		Web Page: https://thunderstore.io/c/lethal-company/p/Snowlance/Something/
+		Files Names: plugins\Snowlance.Something.dll, plugins\something_assets
+	Radiation Leak
+		Version: 1.0.4
+		Web Page: https://thunderstore.io/c/lethal-company/p/ActusDev/Radiation_Leak/
+		Files Names: plugins\RadiationLeak.dll, plugins\radiationleakasset
+	ShotgunRoulette
+		Version: 0.1.0
+		Web Page: https://thunderstore.io/c/lethal-company/p/zeeblo/ShotgunRoulette/
+		File Name: plugins\zeeblo.ShotgunRoulette.dll
+		Directory Name: plugins\Assets
+
+	
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+<smallcaps>      BG IG, A System-Act Ally
+      Copyright<sup>(C)</sup> 1941-1945, Electronic Arts Pidorasen Inc.
+<mspace=0.6em>
+CPU Type:         BendorOS<sup>TM</sup> 400 CPU at 121.5 MHz
+Memory test:      605542K OK
+
+Booty Distributioner Applicant v5.E1B008
+Copyright<sup>(C)</sup> 1488 Distributioneer Ltd.
+    Detecting Sting X Turbinium RAM
+    Deticting Web LNV Extender
+    Dickiting Heartbeats NOT OK
+
+
+UTGF Device Listening...    Viebano!
+
+Body    ID       Neuter       Device       Zero
+_____________________________________________________
+
+4       42       Jo142        H515         I
+2       42       Sa5155       H515         Fucked
+4       42       Sigurd       H515         Your
+2       42       Eri510       H515         Mom
+1       14       Ell567       H515         And
+0       88       Jos912       H515         Dad
+</mspace>
+</smallcaps>

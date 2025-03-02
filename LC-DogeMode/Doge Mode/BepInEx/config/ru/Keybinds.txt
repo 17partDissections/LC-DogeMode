@@ -13,7 +13,7 @@ Walk left=Ебашить влево
 Walk right=Ебашить вправо
 Jump=Прыгнуть
 Sprint=Спринт
-Crouch=Присесть на кортаны
+Crouch=Присесть на дорожку
 Interact=Заюзать
 Ping scan=Деградировать зрение
 Item primary use=Основное использование
@@ -31,7 +31,7 @@ Point=Указывать
 Enable chat=Открыть чат
 Submit chat=Отправить сообщение
 
-REBIND CONTROLLERS=НАСТРОЙКИ УПРАВЛЕНИЯ (ГЕЙМПАД)
+REBIND CONTROLLERS=КНОПКИ НА ГЕЙМПАДЕ
 Move forward=Идти вперед
 Move back=Идти назад
 Move left=Идти влево
