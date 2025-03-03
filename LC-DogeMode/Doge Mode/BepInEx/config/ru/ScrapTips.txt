@@ -97,8 +97,8 @@ Apparatus collected!=РИТЭГ на корабле!
 Drop V-type engine : [G]=Выкинуть двигатель: [G]
 V-type engine collected!=V-образный двигатель на корабле!
 
-Drop Large axle : [G]=Выкинуть ось: [G]
-Large axle collected!=Большая ось на корабле!
+Drop Large axle : [G]=Выкинуть песду: [G]
+Large axle collected!=Большая песда на корабле!
 
 Drop Bottles : [G]=Выкинуть ящик: [G]
 Bottles collected!=Ящик с бутылками на корабле!

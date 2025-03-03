@@ -15,6 +15,7 @@ Change: Slayer=Надеть костюм убийцы: [E]
 Change: smile=Надеть костюм смайлика: [E]
 Change: Smile=Надеть костюм смайлика: [E]
 Change: Glow=Надеть светящийся костюм: [E]
+Change: Female=Надеть женский костюм: [E]
 
 Cosmetics Enabled:=ВКЛ аксессуары:
 Crew Size:=мест:
