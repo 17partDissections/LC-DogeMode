@@ -1,10 +1,10 @@
-Lethal Company Doge Mode version 2.1 made by Q17pD(Github: 17partDissections) (
+Lethal Company Doge Mode version 2.2 made by Q17pD(Github: 17partDissections) (
 	other contributors:
 		Nor(Github: dep-q)
 )
 Voice actors, used in this mode: Nor(Github: dep-q), Fougy
 
-Plugins pack version: 2.1
+Plugins pack version: 2.2
 
 Plugins List:
 	XUnity AutoTranslator
@@ -110,6 +110,10 @@ Plugins List:
 		Version: 1.2.2
 		Web Page: https://thunderstore.io/c/lethal-company/p/SirTyler/BetterTeleporter/
 		File Name: BepInEx\plugins\BetterTeleporter.dll
+	BetterSpectate
+		Version: 1.0.0
+		Web Page: https://thunderstore.io/c/lethal-company/p/Fusition/BetterSpectate/
+		File Name: BepInEx\plugins\BetterSpectate.dll
 	ReservedItemSlotCore
 		Version: 2.0.44
 		Web Page: https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/
@@ -162,10 +166,6 @@ Plugins List:
 		Version: 1.5.3
 		Web Page: https://thunderstore.io/c/lethal-company/p/Electric131/OuijaBoard/
 		File Name: BepInEx\plugins\LCOuijaBoard.dll
-	LethalCasino
-		Version: 1.1.2
-		Web Page: https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/
-		Files Names: BepInEx\plugins\mrgrm7.LethalCasino.dll, BepInEx\plugins\lethalcasinoassets
 	ShotgunRoulette
 		Version: 0.1.0
 		Web Page: https://thunderstore.io/c/lethal-company/p/zeeblo/ShotgunRoulette/
