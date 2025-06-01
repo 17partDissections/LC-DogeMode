@@ -24,17 +24,20 @@ Voice Volume=Громкость
 WAITING FOR KEY=ОЖИДАНИЕ ВВОДА
 Remap=Переназначение
 Emote Wheel=Колесо эмоций
+Emote Wheel Next Page=Следующая страница\nколеса эмоций
+Emote Wheel Previous Page=Предыдущая страница\nколеса эмоций
 (Controller)=(на геймпаде)
 Quick Emotes=Быстрые эмоции
 (Keyboard only)=(только на клавиатуре)
-Middle Finger=Показывать\nсредний палец
+Middle_Finger=Показывать\nфак
 Clap=Аплодировать
-The Griddy=Танцевать\n"Гридди"
+Griddy=Танцевать\n"Гридди"
 Shy=Выражать\nстеснение
 Twerk=Тверкать
 Salute=Отдавать\nчесть
 Prisyadka=Танцевать\n"присядку"
-Sign=Показывать\nтабличку
+Sign Submit=Показывать\nтабличку
+Sign Cancel=Убрать\nтабличку
 Settings=Настройки
 Inventory Check=Проверка инвентаря
 Prevents some emotes from performing while holding items/scrap=Предотвращает показ\nнекоторых эмоций при\nдержании предметов/лома.
@@ -73,6 +76,9 @@ Hold: [Alt]=Зажать: [Alt]
 Toggle Shutter : [E]=Открыть/закрыть: [E]
 
 r:"^Count:([0-9]+)$"=Кол-во: $1 
+
+Hold: [L-Alt]=Держать: [L-Alt]
+Toggle: [R-Alt]=Переключать: [L-Alt]
 
 Pet cat : [LMB]=Погладить: [ЛКМ]
 Drop Cat : [G]=Выкинуть кота: [G]

@@ -17,7 +17,7 @@ Unknown=Хз
 None=Отсутствует.
 
 CONDITIONS:=КОНДИЦИИ:
-Arid. Thick haze, worsened by industrial artifacts.=Засуха. Густая дымка вейпера, усугубленная Ubisoft, EA.
+Arid. Thick haze, worsened by industrial artifacts.=Засуха. Густая дымка вейпера, усугубленная Electronic Arts
 Jagged and weathered terrain.=Неровная, как спина твоей мамки поверхность.
 No land masses. Continual storms.=Пиздуй сдавать скрап и убивай своих напарников.
 Humid. Rough terrain. Teeming with plant-life.=Повышенная влажность, как в твоих снах. Твой папа чмошник

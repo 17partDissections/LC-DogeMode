@@ -26,3 +26,4 @@ Barber=Моэль
 Maneater=Плакса ебаная
 Turret=Марк-Турель
 Landmine=Коровья мина
+Giant Sapsucker=Марабу блядый
