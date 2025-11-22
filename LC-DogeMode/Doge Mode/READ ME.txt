@@ -1,10 +1,10 @@
-Lethal Company Doge Mode version 2.2.1 made by Q17pD(Github: 17partDissections) (
+Lethal Company Doge Mode version 2.2.2 made by Q17pD(Github: 17partDissections) (
 	other contributors:
 		Nor(Github: dep-q)
 )
 Voice actors: Nor(Github: dep-q), Fougy, Matvei Demin
 
-Plugins pack version: 2.2.1
+Plugins pack version: 2.2.2
 
 Plugins List:
 	XUnity AutoTranslator
@@ -20,7 +20,7 @@ Plugins List:
 			BepInEx\plugins\RussianTranslateTerminal.dll
 		Directories Names: BepInEx\config\ru	
 	LC API V50
-		Version: 3.4.12
+		Version: 3.4.14
 		Web Page: https://thunderstore.io/c/lethal-company/p/DrFeederino/LC_API_V50/
 		Files Names: BepInEx\plugins\LC_API_V50.dll, BepInEx\plugins\networking
 	LethalLib
@@ -36,7 +36,7 @@ Plugins List:
 		Web Page: https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/
 		File Name: BepInEx\plugins\NicholaScott.BepInEx.RuntimeNetcodeRPCValidator.dll
 	LethalCompany InputUtils
-		Version: 0.7.10
+		Version: 0.7.12
 		Web Page: https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/
 		Directory Name: BepInEx\plugins\LethalCompanyInputUtils
 	NilsHUD
@@ -70,12 +70,12 @@ Plugins List:
 		Web Page: https://thunderstore.io/c/lethal-company/p/sfDesat/ViewExtension/
 		File Names: BepInEx\plugins\ViewExtension.dll, BepInEx\plugins\viewextensionassetbundle
 	Better Emotes
-		Version: 1.5.4
+		Version: 1.5.8
 		Web Page: https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/
 		File Name: BepInEx\plugins\BetterEmotes.dll
 		Directory Name: BepInEx\plugins\BetterEmotes
 	ModelReplacementAPI
-		Version: 2.4.14
+		Version: 2.4.19
 		Web Page: https://thunderstore.io/c/lethal-company/p/BunyaPineTree/ModelReplacementAPI/
 		File Name: BepInEx\plugins\ModelReplacementAPI.dll
 	More Suits
@@ -99,7 +99,7 @@ Plugins List:
 		Web Page: https://thunderstore.io/c/lethal-company/p/FlipMods/MoreBlood/
 		File Name: BepInEx\plugins\MoreBlood.dll
 	BetterStamina
-		Version: 1.5.5
+		Version: 1.5.7
 		Web Page: https://thunderstore.io/c/lethal-company/p/FlipMods/BetterStamina/
 		File Name: BepInEx\plugins\BetterStamina.dll
 	Better Flashlight
@@ -115,7 +115,7 @@ Plugins List:
 		Web Page: https://thunderstore.io/c/lethal-company/p/Fusition/BetterSpectate/
 		File Name: BepInEx\plugins\BetterSpectate.dll
 	ReservedItemSlotCore
-		Version: 2.0.44
+		Version: 2.0.53
 		Web Page: https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/
 		File Name: BepInEx\plugins\ReservedItemSlotCore.dll
 	ReservedWalkieSlot
@@ -143,27 +143,23 @@ Plugins List:
 		Web Page: https://thunderstore.io/c/lethal-company/p/Thorlar/HealthStation/
 		File Name: BepInEx\plugins\OctolarFirstMod.dll
 	NeedyCats
-		Version: 1.2.3
+		Version: 1.2.4
 		Web Page: https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/
 		File Name: BepInEx\plugins\NeedyCats.dll
 	Mimics
-		Version: 2.6.4
+		Version: 2.7.2
 		Web Page: https://thunderstore.io/c/lethal-company/p/x753/Mimics/
 		File Name: BepInEx\plugins\Mimics.dll
 	Skinwalkers
 		Version: 5.0.0
 		Web Page: https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/
 		File Name: BepInEx\plugins\SkinwalkerMod.dll
-	SCP999
-		Version: 2.2.3
-		Web Page: https://thunderstore.io/c/lethal-company/p/ProjectSCP/SCP999/
-		Files Names: BepInEx\plugins\ProjectSCP.SCP999.dll, BepInEx\plugins\scp999_assets
 	OuijaBoard
 		Version: 1.5.3
 		Web Page: https://thunderstore.io/c/lethal-company/p/Electric131/OuijaBoard/
 		File Name: BepInEx\plugins\LCOuijaBoard.dll
 	ShotgunRoulette
-		Version: 0.1.0
+		Version: 0.2.1
 		Web Page: https://thunderstore.io/c/lethal-company/p/zeeblo/ShotgunRoulette/
 		File Name: BepInEx\plugins\zeeblo.ShotgunRoulette.dll
 		Directory Name: BepInEx\plugins\Assets
