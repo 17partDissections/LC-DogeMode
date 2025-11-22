@@ -1,10 +1,10 @@
-Lethal Company Doge Mode version 2.2.2 made by Q17pD(Github: 17partDissections) (
+Lethal Company Doge Mode version 2.2.3 made by Q17pD(Github: 17partDissections) (
 	other contributors:
 		Nor(Github: dep-q)
 )
-Voice actors: Nor(Github: dep-q), Fougy, Matvei Demin
+Voice actors: Nor(Github: dep-q), Fougy, skyscrapers
 
-Plugins pack version: 2.2.2
+Plugins pack version: 2.2.3
 
 Plugins List:
 	XUnity AutoTranslator
